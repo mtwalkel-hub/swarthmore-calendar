@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swarthmore College Events Calendar</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #333; min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+        .container { max-width: 600px; margin: 2rem; padding: 2.5rem; background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); text-align: center; }
+        h1 { color: #9e1b32; margin-bottom: 0.5rem; font-size: 1.8rem; }
+        .subtitle { color: #666; margin-bottom: 2rem; font-size: 0.95rem; }
+        .btn { display: inline-block; background: #9e1b32; color: white; text-decoration: none; padding: 14px 28px; border-radius: 8px; font-size: 1.1rem; font-weight: 600; margin: 0.5rem; transition: background 0.2s; }
+        .btn:hover { background: #7a1528; }
+        .btn-secondary { background: #4285f4; }
+        .btn-secondary:hover { background: #3367d6; }
+        .instructions { margin-top: 2rem; text-align: left; background: #f9f9f9; padding: 1.5rem; border-radius: 8px; font-size: 0.9rem; line-height: 1.6; }
+        .instructions h2 { font-size: 1rem; margin-bottom: 0.75rem; color: #9e1b32; }
+        .instructions ol { padding-left: 1.2rem; }
+        .instructions li { margin-bottom: 0.5rem; }
+        code { background: #e8e8e8; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem; word-break: break-all; }
+        .footer { margin-top: 2rem; font-size: 0.8rem; color: #999; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Swarthmore College Events</h1>
+        <p class="subtitle">A community calendar sourced from The Dash, updated daily.</p>
+        <a class="btn btn-secondary" href="https://calendar.google.com/calendar/r?cid=webcal://mtwalkel.github.io/swarthmore-calendar/swarthmore_events.ics">Add to Google Calendar</a>
+        <br>
+        <a class="btn" href="swarthmore_events.ics">Download .ics File</a>
+        <div class="instructions">
+            <h2>How to Subscribe</h2>
+            <ol>
+                <li>Click "Add to Google Calendar" above, or:</li>
+                <li>In Google Calendar, click the <strong>+</strong> next to "Other calendars"</li>
+                <li>Select "From URL"</li>
+                <li>Paste this URL:<br><code>https://mtwalkel.github.io/swarthmore-calendar/swarthmore_events.ics</code></li>
+                <li>Click "Add calendar" - events will sync automatically!</li>
+            </ol>
+        </div>
+        <p class="footer">Events sourced from <a href="https://dash.swarthmore.edu">The Dash</a>. Calendar refreshes daily via GitHub Actions.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+name: Update Swarthmore Events Calendar
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests pytz
+
+      - name: Fetch events and generate .ics
+        run: |
+          python swarthmore_events_scraper.py \
+            --days 60 \
+            --output docs/swarthmore_events.ics \
+            --json
+
+      - name: Commit and push updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || \
+            git commit -m "Update Swarthmore events calendar $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
