@@ -1,610 +1,5 @@
 [
   {
-    "title": "TriCo Neuroscience Symposium",
-    "id": "1347686693",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1347686693",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m8nbwm1t6mkgsg5v70e5vx9nwy",
-    "description": "<p>TriCo Neuroscience Symposium guest lecture</p>",
-    "startdate": "2026-05-04T08:00:00",
-    "enddate": "2026-05-04T14:00:00",
-    "allday": false,
-    "eventtype": "Academic Event",
-    "formatteddate": "Monday, May 4, 2026, 8am&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "Singer Hall Flexible Classroom (034 and 035)",
-    "organization": [
-      "Cognitive Science"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576042",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576042",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cmhbjjpvgbfpwn8n44b1fu3nhp",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-04T08:30:00",
-    "enddate": "2026-05-04T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Monday, May 4, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "TriCo Neuroscience Symposium",
-    "id": "1347686692",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1347686692",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/88znw1xh1d668f8ge36mu7dt38",
-    "description": "<p>TriCo Neuroscience symposium poster session</p>",
-    "startdate": "2026-05-04T09:00:00",
-    "enddate": "2026-05-04T13:00:00",
-    "allday": false,
-    "eventtype": "Academic Event",
-    "formatteddate": "Monday, May 4, 2026, 9am&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Singer First Floor Commons, Singer Hall 034/035 Lobby",
-    "organization": [
-      "Cognitive Science"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Campus Climate Report Listening Session-Belonging",
-    "id": "1392716727",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1392716727",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/06bnvgtakdx49wcmgrhewcegve",
-    "description": "<p>The Campus Climate Report Listening Session - Belonging is open to faculty, staff, and students.</p>",
-    "startdate": "2026-05-04T10:00:00",
-    "enddate": "2026-05-04T11:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Monday, May 4, 2026, 10&nbsp;&ndash;&nbsp;11am&nbsp;",
-    "location": "Science Center Room 102-Classroom",
-    "organization": [
-      "Office of Diversity",
-      "Equity",
-      "and Inclusi"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Sanctuary Campus Inquiry Group",
-    "id": "1368371835",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1368371835",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gbguyvvans1a45tchgaj1fa41h",
-    "description": "<p>Sanctuary Campus Inquiry Group Meeting #3</p>",
-    "startdate": "2026-05-04T10:00:00",
-    "enddate": "2026-05-04T11:30:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Monday, May 4, 2026, 10&nbsp;&ndash;&nbsp;11:30am&nbsp;",
-    "location": "McCabe LibLab, Full Space, Conference Room",
-    "organization": [
-      "Teaching and Learning Commons"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "TriCo Neuroscience Symposium",
-    "id": "1347686694",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1347686694",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sr2x68gynvj71kp9vuguesxakm",
-    "description": "<p>TriCo Neuroscience Symposium lecture</p>",
-    "startdate": "2026-05-04T10:30:00",
-    "enddate": "2026-05-04T12:00:00",
-    "allday": false,
-    "eventtype": "Academic Event",
-    "formatteddate": "Monday, May 4, 2026, 10:30am&nbsp;&ndash;&nbsp;12pm&nbsp;",
-    "location": "Singer Hall Room 033 - Tiered Classroom",
-    "organization": [
-      "Cognitive Science"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Staff Summer Reading info session",
-    "id": "1386142188",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1386142188",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0dcw6vd0gt5ck74znu3xu4uw69",
-    "description": "<p>Staff Summer Reading is a program designed to help you read as much as you can between semesters. Join us for an info session to learn how to use the reading tracker software Beanstack, and to hear more details about the program. </p>",
-    "startdate": "2026-05-04T11:00:00",
-    "enddate": "2026-05-04T12:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Monday, May 4, 2026, 11am&nbsp;&ndash;&nbsp;12pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Swarthmore College Libraries",
-      "Be Well",
-      "Office of Diversity",
-      "Equity",
-      "and Inclusi",
-      "PSAC President's Staff Advisory Council"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Russian Language Table",
-    "id": "1356172371",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1356172371",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mbz1gbsmcvrk4egg5uw92cj0np",
-    "description": "<p><span>?Join us for the Russian Language Table. </span>This is a chance not only to speak Russian and perhaps to chat about Russia<span>?n foodways, but also to meet the other students who know or study Russian, and a shifting mix of faculty who speak or work on the language and culture - native speakers are welcome to attend! </span></p>",
-    "startdate": "2026-05-04T12:15:00",
-    "enddate": "2026-05-04T13:15:00",
-    "allday": false,
-    "eventtype": "Academic Event",
-    "formatteddate": "Monday, May 4, 2026, 12:15&nbsp;&ndash;&nbsp;1:15pm&nbsp;",
-    "location": "Dining Center 206",
-    "organization": [
-      "Russian",
-      "Modern Languages and Literatures"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "DEI Dialogue Discussion with Faculty",
-    "id": "1392483548",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1392483548",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sukrcgnns87cg2n6sdewazpe9g",
-    "description": "",
-    "startdate": "2026-05-04T12:30:00",
-    "enddate": "2026-05-04T13:30:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Monday, May 4, 2026, 12:30&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "Dining Center Teaching Kitchen 201S",
-    "organization": [
-      "Office of Diversity",
-      "Equity",
-      "and Inclusi"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Center for Innovation and Leadership End of Year Celebration",
-    "id": "1347137415",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1347137415",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8sk74spc7zx6jx5etbm9cjwz8c",
-    "description": "<p>Come join the CIL and celebrate the year. </p> <p>Meet and mingle with members of the CIL escosystem. Open to all. </p> <p>Food and refreshments will be provided</p>",
-    "startdate": "2026-05-04T13:00:00",
-    "enddate": "2026-05-04T15:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Monday, May 4, 2026, 1&nbsp;&ndash;&nbsp;3pm&nbsp;",
-    "location": "Science Center - Eldridge Commons, Science Center Patio",
-    "organization": [
-      "Center for Innovation and Leadership"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Green Advisors Earth Month Event",
-    "id": "1387430788",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1387430788",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4bccxvh36z7d0h1p89jhn8nc03",
-    "description": "<p>Celebrate Earth Month with your Green Advisors! There will be zero waste carnival games, crafts and ice cream!</p>",
-    "startdate": "2026-05-04T14:00:00",
-    "enddate": "2026-05-04T16:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Monday, May 4, 2026, 2&nbsp;&ndash;&nbsp;4pm&nbsp;",
-    "location": "Sharples Commons West Courtyard",
-    "organization": [
-      "Sustainability"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Rainbow Loom study break",
-    "id": "1370437497",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1370437497",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ckr0stz52kd3sgzzbkgj029dby",
-    "description": "<p>Take a break from studying for finals and do some crafting. We'll have Rainbow Loom materials as well as embroidery floss if you prefer a more classic friendship bracelet. Come when you like, leave when you must.</p> <p>This program is inspired by the exhibition American Communities 1776-2026, featuring works from Special Collections, on view in the McCabe atrium. Check out the exhibition cases before or after your crafting session.</p>",
-    "startdate": "2026-05-04T14:00:00",
-    "enddate": "2026-05-04T16:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Monday, May 4, 2026, 2&nbsp;&ndash;&nbsp;4pm&nbsp;",
-    "location": "McCabe Library 100 Atrium",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Senior English Majors Symposium",
-    "id": "1355668017",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1355668017",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/w37rkt8ztd1j75kex8ef873ry7",
-    "description": "<p>This symposium will showcase the research of the graduating English majors</p>",
-    "startdate": "2026-05-04T14:00:00",
-    "enddate": "2026-05-04T17:00:00",
-    "allday": false,
-    "eventtype": "Class Meeting",
-    "formatteddate": "Monday, May 4, 2026, 2&nbsp;&ndash;&nbsp;5pm&nbsp;",
-    "location": "McCabe LibLab, Full Space, Conference Room",
-    "organization": [
-      "English Literature"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "SOCA Study Jam",
-    "id": "1392745549",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1392745549",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4jkzuvkun0w9xyczznpdkugx86",
-    "description": "<p>A space for people to study for people to study for finals! </p>",
-    "startdate": "2026-05-04T14:00:00",
-    "enddate": "2026-05-04T16:00:00",
-    "allday": false,
-    "eventtype": "Student Activity (no alcohol)",
-    "formatteddate": "Monday, May 4, 2026, 2&nbsp;&ndash;&nbsp;4pm&nbsp;",
-    "location": "Singer Hall Room 033 - Tiered Classroom",
-    "organization": [
-      "Students of Caribbean Ancestry"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Special Exhibition Tour: American Communities 1776–2026",
-    "id": "1392708771",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1392708771",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ms4rbxz7ras2e1kw1pwzfa8yxe",
-    "description": "<p>Join us for a guided <span>tour</span> of <em>American Communities 1776–2026</em>, a special exhibition in McCabe Library marking America250. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. Meet in the McCabe Library lobby.</p> <p>This tour complements the Rainbow Loom study break at 2:00-4:00 in McCabe! Take a break from studying for finals and do some crafting. We'll have Rainbow Loom materials as well as embroidery floss if you prefer a more classic friendship bracelet. </p> <p> </p>",
-    "startdate": "2026-05-04T15:00:00",
-    "enddate": "2026-05-04T16:00:00",
-    "allday": false,
-    "eventtype": "Lecture/Panel Discussion",
-    "formatteddate": "Monday, May 4, 2026, 3&nbsp;&ndash;&nbsp;4pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Swarthmore College Libraries",
-      "Friends Historical Library",
-      "Peace Collection"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "GEO Pre-Departure Mixer",
-    "id": "1376576109",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1376576109",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4hh63euds8pdrpts6rgxm5zjcj",
-    "description": "<p>Reception for outgoing Fall 2026 study abroad students.</p>",
-    "startdate": "2026-05-04T15:30:00",
-    "enddate": "2026-05-04T18:30:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Monday, May 4, 2026, 3:30&nbsp;&ndash;&nbsp;6:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Global Engagement Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Workshop: Introduction to Bookbinding (Stab Binding)",
-    "id": "1391945943",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945943",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cegdt38w8ech8axuncc1gkguvy",
-    "description": "<p>Learn stab binding, a technique used in several East Asian cultures, in this hands-on workshop. We'll also have on display a few works from our collections that use this binding. All materials will be provided, and all skill levels are welcome. This workshop is open to all Swarthmore College students, staff, and faculty, but <strong><a href=\"https://Learn%20stab%20binding,%20a%20technique%20used%20in%20several%20East%20Asian%20cultures,%20in%20this%20hands-on%20workshop.%20We'll%20also%20have%20on%20display%20a%20few%20works%20from%20our%20collections%20that%20use%20this%20binding.%20All%20materials%20will%20be%20provided,%20and%20all%20skill%20levels%20are%20welcome.%20This%20workshop%20is%20open%20to%20all%20Swarthmore%20College%20students,%20staff,%20and%20faculty,%20but%20registration%20is%20required.%20Walk-ins%20will%20be%20accommodated%20on%20a%20first-come%20first-serve%20basis,%20as%20well%20as%20if%20any%20registrants%20do%20not%20show%20up%20by%204:37%20PM.%20%20Hosted%20by%20the%20Libraries%20and%20the%20Comics%20Assistants.\" target=\"_blank\" rel=\"noopener\">registration is required</a></strong>. Walk-ins will be accommodated on a first-come first-serve basis, as well as if any registrants do not show up by 4:37 PM.</p> <p>Hosted by the Libraries and the Comics Assistants.</p>",
-    "startdate": "2026-05-04T16:30:00",
-    "enddate": "2026-05-04T17:30:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Monday, May 4, 2026, 4:30&nbsp;&ndash;&nbsp;5:30pm&nbsp;",
-    "location": "McCabe Library Room 306-Classroom",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Swat Theater presents Night of Scenes",
-    "id": "1364477273",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364477273",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gbryxxvcvm5x5fp7a7dy3tyj9a",
-    "description": "<p><strong>S'26 Directing Night of Scenes</strong></p> <p><span style=\"font-weight: 400;\">Frear Ensemble Theater</span></p> <p><span style=\"font-weight: 400;\">May 4 8:00 PM </span></p> <p><span style=\"font-weight: 400;\">May 5 8:00 PM</span></p> <p> </p> <p><span style=\"font-weight: 400;\">Finally, our Directing II Class led by Professor K. Elizabeth Stevens will present a short night of scenes to wrap up our spring semester. </span></p>",
-    "startdate": "2026-05-04T20:00:00",
-    "enddate": "2026-05-04T21:00:00",
-    "allday": false,
-    "eventtype": "Performance",
-    "formatteddate": "Monday, May 4, 2026, 8&nbsp;&ndash;&nbsp;9pm&nbsp;",
-    "location": "Lang Performing Arts Center (LPAC) Room 1-Frear Black Box",
-    "organization": [
-      "Theater"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392376",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392376",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gryd7z9ujr9sdd7b25px6xfw0k",
-    "description": "",
-    "startdate": "2026-05-05T08:00:00",
-    "enddate": "2026-05-05T11:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 5, 2026, 8&nbsp;&ndash;&nbsp;11am&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392377",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392377",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/463mpxm2rm2wu47f6a1kuk5z9a",
-    "description": "",
-    "startdate": "2026-05-05T08:00:00",
-    "enddate": "2026-05-05T11:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 5, 2026, 8&nbsp;&ndash;&nbsp;11am&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576043",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576043",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/88ktmfbheujfrd61e88wtuv8c7",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-05T08:30:00",
-    "enddate": "2026-05-05T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Tuesday, May 5, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Digital Scholarship Research Institute",
-    "id": "1353822204",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1353822204",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wnud2bs4scjkrahxjygprtgvhz",
-    "description": "<p>Now in its 8th iteration, the TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Through instensive workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research. <a href=\"https://ds-pages.swarthmore.edu/dsri/\" target=\"_blank\" rel=\"noopener\" title=\"https://ds-pages.swarthmore.edu/dsri/\">ds-pages.swarthmore.edu…</a> </p>",
-    "startdate": "2026-05-05T08:30:00",
-    "enddate": "2026-05-05T18:00:00",
-    "allday": false,
-    "eventtype": "Conference",
-    "formatteddate": "Tuesday, May 5, 2026, 8:30am&nbsp;&ndash;&nbsp;6pm&nbsp;",
-    "location": "McCabe LibLab, Full Space, Conference Room",
-    "organization": [
-      "McCabe Library"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Worldbuilding Showcase",
-    "id": "1394015699",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1394015699",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mvvbtztxepx0euzvww6ka9npnv",
-    "description": "<p>Join the students of FMST 34: Transmedia Worldbuilding and Storytelling for a presentation of their final projects: four unique imaginary worlds, with screen and material media based on each!<br /><br />SKOIGLE ISLANDS<br />With gentle ocean breezes and wide open skies, the Skoigle Islands are a flotilla of giant turtles whose backs have become island terrain. After surviving catastrophic floods caused by humanity’s plundering of the natural environment, humanity has been given a new chance on the Skoigle Islands to rediscover and rekindle its relationship with the new state of nature.<br /><br />THE EYE<br />Viridia, an exoplanet filled with dangerous life and psychedelic storms, is currently inhabited by protosapiens (semi-neanderthal/semi-homosapien beings crafted in a lab in the US) living in the planet’s only safe zone: The Eye. After a thousand years of trying to rediscover the remains of the USS Dipper to reconnect with their earthly roots, they finally learn the truth: they are alone.<br /><br />ARCHIPELAGO OF ASHANTI<br />The Archipelago of Ashanti on the planet Furth is a formation of islands said to be the remains of two Titans — the supposed corpses of the lovers now host human life, who settled the islands they discovered amidst the sea. However, some instead believe the Ashantai people are the descendants of the Titans, on account of the supernatural abilities displayed by a small fraction of the population. Those who can direct the natural forces of the world through the arts are called mages, and are largely responsible for the advancements which drag Ashanti beyond its otherwise Renaissance-era level of development. However, conflicts between the majority population and minority of magic users have slowly escalated as the latter’s voices and ways are phased out of the government, leaving the Archipelago with a choice: accept the uncontrollable nature of magic, or lose it altogether.<br /><br />GINKGO’S BILOBA<br />Ginkgo’s Biloba is a VR game where streamers have been trapped, forced into play to escape by SpectaCorp. The players are accompanied throughout multiple game levels by Ginkgos, virtual companions assigned to each individual upon entry. Each level unlocks a new challenge, taking players to different maps, leading to the ultimate battle royale, determining who will emerge as Spectra’s star streamer.<br /><br />Presented by the Department of Film and Media Studies</p>",
-    "startdate": "2026-05-05T10:00:00",
-    "enddate": "2026-05-05T11:30:00",
-    "allday": false,
-    "eventtype": "Poster Session",
-    "formatteddate": "Tuesday, May 5, 2026, 10&nbsp;&ndash;&nbsp;11:30am&nbsp;",
-    "location": "Martin Hall 128 Media Gallery/Lobby",
-    "organization": [
-      "Department of Film and Media Studies"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Lavender Graduation",
-    "id": "1364505062",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364505062",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4jmfrsscyu0214y1zw17ejsh1g",
-    "description": "<p>Lavender Graduation is a time to get together to celebrate our LGBTQ+ graduating seniors! Seniors wishing to participate must register. All are welcome.</p>",
-    "startdate": "2026-05-05T11:30:00",
-    "enddate": "2026-05-05T13:30:00",
-    "allday": false,
-    "eventtype": "Reception",
-    "formatteddate": "Tuesday, May 5, 2026, 11:30am&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "Clothier Room TIC-Upper Tarble - Multi Purpose Room",
-    "organization": [
-      "GSC"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Institute for Study Abroad - IFSA",
-    "id": "1390576044",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576044",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/w1as6c2ug6g5r9438nvmn4r794",
-    "description": "<p style=\"text-align: left; margin: 0;\" align=\"left\"><span style=\"font-size: 15px;\">IFSA Programs in Latin America (Chile, Costa Rica, Mexico, Peru),</span></p> <p style=\"text-align: left; margin: 0;\" align=\"left\"><span style=\"font-size: 15px;\">Trinity College Dublin, University of New South Wales, and University of Sydney</span></p> <p style=\"text-align: left; margin: 0;\" align=\"left\"> </p> <p style=\"text-align: left; margin: 0;\" align=\"left\"><span style=\"font-size: 15px; font-weight: bold;\">Join us for Q&A with Logan Beck, Institutional Engagement Assistant Manager for IFSA.</span></p>",
-    "startdate": "2026-05-05T12:30:00",
-    "enddate": "2026-05-05T13:30:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, May 5, 2026, 12:30&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "Dining Center 207 - Lewis H. Lazarus '78 Dining Room",
-    "organization": [
-      "Global Engagement Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Let's Talk at IC 108",
-    "id": "1372508680",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1372508680",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0e2xgmpwvk6jb82mwbvwr4zy4a",
-    "description": "<p><span style=\"font-weight: 400;\">Let's Talk is an informal, confidential, drop-in a consultation with a CAPS therapist. Let's Talk can offer supports, help you gain insight, and provide you with resources, navigating whatever is coming up. </span></p>",
-    "startdate": "2026-05-05T13:00:00",
-    "enddate": "2026-05-05T14:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, May 5, 2026, 1&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Psychological Services",
-      "Be Well",
-      "Division of Student Affairs"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Senior English Majors Symposium",
-    "id": "1394015700",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1394015700",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/89781pmtp6dm9vevun220wuxp8",
-    "description": "<p>This is a two-day symposium where senior English majors will give short presentations of their capstone projects. Come hear about their research, offer your feedback, and toast their accomplishments!</p>",
-    "startdate": "2026-05-05T14:00:00",
-    "enddate": "2026-05-05T17:00:00",
-    "allday": false,
-    "eventtype": "Class Meeting",
-    "formatteddate": "Tuesday, May 5, 2026, 2&nbsp;&ndash;&nbsp;5pm&nbsp;",
-    "location": "Science Center Room 128-Classroom",
-    "organization": [
-      "English Literature"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Finals Write-In Event",
-    "id": "1345461131",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1345461131",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m9y2tnccece8x3adwb3z9wt9c4",
-    "description": "<p>A write-in is an event that brings writers together and offers them snacks and support for their writing process. Write-ins can alleviate the isolation of writing alone and help foster a campus writing community. </p>",
-    "startdate": "2026-05-05T15:00:00",
-    "enddate": "2026-05-05T22:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, May 5, 2026, 3&nbsp;&ndash;&nbsp;10pm&nbsp;",
-    "location": "Old Science Hall Room 301-Classroom, Old Science Hall Room 303-Classroom",
-    "organization": [
-      "Writing Associates Program"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Lag BaOmer BBQ and Senior send-off!",
-    "id": "1394015701",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1394015701",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8k0auv4zbbn9s9wbfe06ve4682",
-    "description": "<p>All students welcome to take a study break and enjoy a BBQ party celebrating Lag BaOmer and our Swatjew seniors! Dunk tank, fire pit, and more! Located at Swarthmore Chabad 312 Elm Ave </p> <p>Text BBQ to 6107561693</p> <p>Email rwolf2 with any questions</p>",
-    "startdate": "2026-05-05T16:00:00",
-    "enddate": "2026-05-05T17:30:00",
-    "allday": false,
-    "eventtype": "Ceremony",
-    "formatteddate": "Tuesday, May 5, 2026, 4&nbsp;&ndash;&nbsp;5:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Chabad"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392378",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392378",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gc4em53cb6dhz25u9rvv2h4mtb",
-    "description": "",
-    "startdate": "2026-05-05T16:30:00",
-    "enddate": "2026-05-05T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 5, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392379",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392379",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sjf66sbrudxr7zugj455s3a5a6",
-    "description": "",
-    "startdate": "2026-05-05T16:30:00",
-    "enddate": "2026-05-05T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 5, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Queer Community Night",
-    "id": "1356617392",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1356617392",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cs2vwxk399sf195hv6vsweuxph",
-    "description": "<p>Join CAPS and the GSC for a night of queer community. Each week will be themed - from vision boards to board games, clothing swaps to cheese nights, you'll leave feeling full of support and love!</p>",
-    "startdate": "2026-05-05T17:00:00",
-    "enddate": "2026-05-05T18:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, May 5, 2026, 5&nbsp;&ndash;&nbsp;6pm&nbsp;",
-    "location": "Gender & Sexuality Center - Second Floor Meeting Room, Gender & Sexuality Center - Third Floor",
-    "organization": [
-      "GSC",
-      "Psychological Services"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Judo Practice",
-    "id": "1352971742",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1352971742",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8hzwdnmsu0y5ycmm8benjck57r",
-    "description": "<p>Judo practice</p>",
-    "startdate": "2026-05-05T18:00:00",
-    "enddate": "2026-05-05T20:30:00",
-    "allday": false,
-    "eventtype": "Student Group Meeting/Practice",
-    "formatteddate": "Tuesday, May 5, 2026, 6&nbsp;&ndash;&nbsp;8:30pm&nbsp;",
-    "location": "Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Judo Club"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Jambo",
-    "id": "1376815637",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1376815637",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/s9wvtfjt5mkfbvbp8af27gs7v2",
-    "description": "<p>Join Offbeat, Swarthmore's youngest a cappella group, as it hosts the semesterly concert Jambo! Featuring Swat's 3 other a cappella groups, Mixed Company, Sixteen Feet, and Grapevine.</p>",
-    "startdate": "2026-05-05T19:00:00",
-    "enddate": "2026-05-05T22:00:00",
-    "allday": false,
-    "eventtype": "Student Activity (no alcohol)",
-    "formatteddate": "Tuesday, May 5, 2026, 7&nbsp;&ndash;&nbsp;10pm&nbsp;",
-    "location": "Lang Music Concert Hall",
-    "organization": [
-      "OffBeat",
-      "Grapevine",
-      "Mixed Company",
-      "Sixteen Feet"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Swat Theater presents Night of Scenes",
-    "id": "1364477274",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364477274",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cgf38ky7p6k1u0vuznc0maka05",
-    "description": "<p><strong>S'26 Directing Night of Scenes</strong></p> <p><span style=\"font-weight: 400;\">Frear Ensemble Theater</span></p> <p><span style=\"font-weight: 400;\">May 4 8:00 PM </span></p> <p><span style=\"font-weight: 400;\">May 5 8:00 PM</span></p> <p> </p> <p><span style=\"font-weight: 400;\">Finally, our Directing II Class led by Professor K. Elizabeth Stevens will present a short night of scenes to wrap up our spring semester. </span></p>",
-    "startdate": "2026-05-05T20:00:00",
-    "enddate": "2026-05-05T21:00:00",
-    "allday": false,
-    "eventtype": "Performance",
-    "formatteddate": "Tuesday, May 5, 2026, 8&nbsp;&ndash;&nbsp;9pm&nbsp;",
-    "location": "Lang Performing Arts Center (LPAC) Room 1-Frear Black Box",
-    "organization": [
-      "Theater"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
     "title": "American Communities 1776-2026",
     "id": "1390576045",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576045",
@@ -643,13 +38,13 @@
     "id": "1332086551",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1332086551",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cpbw1e4znwdz2xcgssxmee74xg",
-    "description": "<p dir=\"ltr\">Join our annual tradition of celebrating Swarthmore seniors during May’s Garnet Day! Please note that, since Thursday is the first day of exams, Garnet Day will be on Wednesday this month.</p> <p dir=\"ltr\">Garnet Day Celebration of the Class of 2026</p> <p dir=\"ltr\">Wednesday, May 6</p> <p dir=\"ltr\">4-6 p.m.</p> <p dir=\"ltr\">Pearson Lawn</p> <p dir=\"ltr\">There will be carnival games, music, and an array of snacks, including treats from Weckerly’s, Lil’ Pop Shop, and the Dia Dolce cupcake truck. Vegan, vegetarian, and gluten-free food options will be available. Everyone’s favorite feathered friend, Phineas, will also make an appearance! </p> <p dir=\"ltr\">We hope you can stop by to congratulate our seniors on their remarkable accomplishments, and wish them a wonderful future ahead. As always, remember to wear your Swarthmore gear to show your spirit!</p> <p dir=\"ltr\"> </p>",
+    "description": "<p dir=\"ltr\">Join our annual tradition of celebrating Swarthmore seniors during May’s Garnet Day! Please note that, since Thursday is the first day of exams, Garnet Day will be on Wednesday this month.</p> <p dir=\"ltr\">Garnet Day Celebration of the Class of 2026</p> <p dir=\"ltr\">Wednesday, May 6</p> <p dir=\"ltr\">4-6 p.m.</p> <p dir=\"ltr\">Clothier Hall</p> <p dir=\"ltr\">There will be carnival games, music, and an array of snacks, including treats from Weckerly’s, Lil’ Pop Shop, and the Dia Dolce cupcake truck. Vegan, vegetarian, and gluten-free food options will be available. Everyone’s favorite feathered friend, Phineas, will also make an appearance! </p> <p dir=\"ltr\">We hope you can stop by to congratulate our seniors on their remarkable accomplishments, and wish them a wonderful future ahead. As always, remember to wear your Swarthmore gear to show your spirit!</p> <p dir=\"ltr\"> </p>",
     "startdate": "2026-05-06T16:00:00",
     "enddate": "2026-05-06T18:00:00",
     "allday": false,
     "eventtype": "Reception",
     "formatteddate": "Wednesday, May 6, 2026, 4&nbsp;&ndash;&nbsp;6pm&nbsp;",
-    "location": "Front Lawn of Pearson",
+    "location": "Paces Lounge, Front Lawn of Pearson",
     "organization": [
       "President's Office"
     ],
@@ -704,9 +99,9 @@
   },
   {
     "title": "Swarthmore Chorus End-of-Year Bonfire",
-    "id": "1393963881",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1393963881",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ms98v72v43af8sta7m4d8f6kk7",
+    "id": "1392672685",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1392672685",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sf3yaxmfrxpmhu463mjv9f3ceu",
     "description": "<p>End of year post-concert celebratory bonfire for Swarthmore's Chorus and Garnet Singers.</p>",
     "startdate": "2026-05-06T18:30:00",
     "enddate": "2026-05-06T21:30:00",
@@ -1377,21 +772,6 @@
   },
   {
     "title": "T&F Practice",
-    "id": "1322392390",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392390",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4z411wgdu9y96s542mwhvstfv1",
-    "description": "",
-    "startdate": "2026-05-12T16:30:00",
-    "enddate": "2026-05-12T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 12, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
     "id": "1322392391",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392391",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mv8kujh9zvhj367d6a3vju5rv4",
@@ -1402,6 +782,21 @@
     "eventtype": "Varsity Athletic Practice",
     "formatteddate": "Tuesday, May 12, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
     "location": "Lamb Miller Fieldhouse WEST",
+    "organization": [],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "T&F Practice",
+    "id": "1322392390",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392390",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4z411wgdu9y96s542mwhvstfv1",
+    "description": "",
+    "startdate": "2026-05-12T16:30:00",
+    "enddate": "2026-05-12T20:00:00",
+    "allday": false,
+    "eventtype": "Varsity Athletic Practice",
+    "formatteddate": "Tuesday, May 12, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
+    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
     "organization": [],
     "__typename": "SwatCentralEvent"
   },
@@ -1492,21 +887,6 @@
   },
   {
     "title": "T&F Practice",
-    "id": "1322392392",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392392",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g314x5n7edvduefpvc75ttjdnp",
-    "description": "",
-    "startdate": "2026-05-13T16:30:00",
-    "enddate": "2026-05-13T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Wednesday, May 13, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
     "id": "1322392393",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392393",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4mfn1pb8j8887gjk84yut4mzbr",
@@ -1517,6 +897,21 @@
     "eventtype": "Varsity Athletic Practice",
     "formatteddate": "Wednesday, May 13, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
     "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
+    "organization": [],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "T&F Practice",
+    "id": "1322392392",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392392",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g314x5n7edvduefpvc75ttjdnp",
+    "description": "",
+    "startdate": "2026-05-13T16:30:00",
+    "enddate": "2026-05-13T20:00:00",
+    "allday": false,
+    "eventtype": "Varsity Athletic Practice",
+    "formatteddate": "Wednesday, May 13, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
+    "location": "Lamb Miller Fieldhouse WEST",
     "organization": [],
     "__typename": "SwatCentralEvent"
   },
@@ -1760,6 +1155,40 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "2026 CCC Spring Concert",
+    "id": "1395460124",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395460124",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/81rae6kuv4151g3xcch0rw2pcg",
+    "description": "<p>Join our 110 Chester children for their spring concerts featuring classical and choral works, followed by The Beatles' greatest hits, including \"Hey Jude,\" \"Help!,\" Lucy in the Sky With Diamonds,\" \"Let It Be,\" and more.</p> <p>These will be the final performances of CCC Founder, Executive & Artistic Director John Alston, before his retirement in August 2026.</p> <p>\"Who doesn't want to finish a musical career with The Beatles? They gave us some of the world's most compelling melodies,\" said Alston. \"I can barely contain myself when our children sing the 'Hey Jude' hook.\"</p> <p>Guests are invited to post-concert receptions in the Lang Performing Arts Center (LPAC), which is adjacent to the Lang Concert Hall.</p> <p><strong>Please note: due to extraordinary interest in John Alston’s final concerts before his retirement, we’ve added a third show. We ask guests to attend </strong><strong>one performance</strong><strong>, so more people can share in this special moment.</strong></p> <p><strong>Overflow seating will be available next door in the Lang Performing Arts Center (LPAC), where guests can watch the performance livestream.</strong></p>",
+    "startdate": "2026-05-16T16:00:00",
+    "enddate": "2026-05-16T17:00:00",
+    "allday": false,
+    "eventtype": "Performance",
+    "formatteddate": "Saturday, May 16, 2026, 4&nbsp;&ndash;&nbsp;5pm&nbsp;",
+    "location": "Lang Performing Arts Center Lobby (LPAC), Lang Music Building Room 214-Presser Room, Lang Music Concert Hall, Lang Music Building Upper Lobby, Lang Music Building Lower Lobby",
+    "organization": [
+      "Chester Children's Chorus"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "The Garnet Choir is touring the United Kingdom this May",
+    "id": "1395463328",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395463328",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c13ah9ybab83j1rkg88n1e7wrc",
+    "description": "<p><strong>The Garnet Choir is touring the United Kingdom this May</strong>. We invite our UK alumni to attend any of the following performances to hear the ensemble’s current repertoire.</p> <p>The students would love to see you in the audience as they share their work with international listeners.</p> <p><strong><u>Performance Schedule:</u></strong></p> <p><strong>Saturday, May 16 | 7:30 p.m.</strong> Performing with the Reading Bach Choir at St. James's Church, Sussex Gardens, London (W2 3UD). <a href=\"https://www.readingbachchoir.org.uk/dbpage.php?pg=view&dbase=events&id=310217\" target=\"_blank\" rel=\"noopener\">Purchase tickets here for £15.00</a>. A meet-and-greet will follow the performance, with choir members and alumni continuing the evening at <a href=\"https://www.swanhydepark.co.uk/\" target=\"_blank\" rel=\"noopener\">The Swan</a> for those who would like to join.<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Tuesday, May 19 | 5:30 p.m.</strong> Evensong with Selwyn College Choir at Selwyn College Chapel, Cambridge<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Wednesday, May 20 | 5:30 p.m</strong>. Evensong at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Thursday, May 21 | 1:00 p.m.</strong> Lunchtime Concert at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p>There is no formal registration or fee required for these events, except for the St. James's Church performance — simply arrive and enjoy the music. Guests are more than welcome to attend, so please feel free to bring family and friends along.</p> <p>We hope you can attend and enjoy a performance during the Garnet Choir’s UK tour!</p> <p>Warmly,<br />Swarthmore College Alumni</p>",
+    "startdate": "2026-05-16T19:30:00",
+    "enddate": "2026-05-16T20:30:00",
+    "allday": false,
+    "eventtype": "Performance",
+    "formatteddate": "Saturday, May 16, 2026, 7:30&nbsp;&ndash;&nbsp;8:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "Honors Orals",
     "id": "1286562311",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562311",
@@ -1790,6 +1219,23 @@
     "location": "McCabe Library Atrium Exhibits",
     "organization": [
       "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "2026 CCC Spring Concert",
+    "id": "1395460125",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395460125",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/459c0z9s1e5bd6znh5d6fmuvbk",
+    "description": "<p>Join our 110 Chester children for their spring concerts featuring classical and choral works, followed by The Beatles' greatest hits, including \"Hey Jude,\" \"Help!,\" Lucy in the Sky With Diamonds,\" \"Let It Be,\" and more.</p> <p>These will be the final performances of CCC Founder, Executive & Artistic Director John Alston, before his retirement in August 2026.</p> <p>\"Who doesn't want to finish a musical career with The Beatles? They gave us some of the world's most compelling melodies,\" said Alston. \"I can barely contain myself when our children sing the 'Hey Jude' hook.\"</p> <p>Guests are invited to post-concert receptions in the Lang Performing Arts Center (LPAC), which is adjacent to the Lang Concert Hall.</p> <p><strong>Please note: due to extraordinary interest in John Alston’s final concerts before his retirement, we’ve added a third show. We ask guests to attend </strong><strong>one performance</strong><strong>, so more people can share in this special moment.</strong></p> <p><strong>Overflow seating will be available next door in the Lang Performing Arts Center (LPAC), where guests can watch the performance livestream.</strong></p>",
+    "startdate": "2026-05-17T16:00:00",
+    "enddate": "2026-05-17T17:00:00",
+    "allday": false,
+    "eventtype": "Performance",
+    "formatteddate": "Sunday, May 17, 2026, 4&nbsp;&ndash;&nbsp;5pm&nbsp;",
+    "location": "Lang Performing Arts Center Lobby (LPAC), Lang Music Building Room 214-Presser Room, Lang Music Concert Hall, Lang Music Building Upper Lobby, Lang Music Building Lower Lobby",
+    "organization": [
+      "Chester Children's Chorus"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -1829,21 +1275,6 @@
   },
   {
     "title": "T&F Practice",
-    "id": "1322392397",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392397",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mkyu801tar0uaktmw3e0hgymmj",
-    "description": "",
-    "startdate": "2026-05-18T16:30:00",
-    "enddate": "2026-05-18T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Monday, May 18, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
     "id": "1322392396",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392396",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8kh2j5jw4ec61zd0h5kmywxjrz",
@@ -1854,6 +1285,21 @@
     "eventtype": "Varsity Athletic Practice",
     "formatteddate": "Monday, May 18, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
     "location": "Lamb Miller Fieldhouse WEST",
+    "organization": [],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "T&F Practice",
+    "id": "1322392397",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392397",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mkyu801tar0uaktmw3e0hgymmj",
+    "description": "",
+    "startdate": "2026-05-18T16:30:00",
+    "enddate": "2026-05-18T20:00:00",
+    "allday": false,
+    "eventtype": "Varsity Athletic Practice",
+    "formatteddate": "Monday, May 18, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
+    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
     "organization": [],
     "__typename": "SwatCentralEvent"
   },
@@ -1956,6 +1402,23 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "The Garnet Choir is touring the United Kingdom this May",
+    "id": "1395463329",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395463329",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ma8r9fv268sztmhrygpka3g0gr",
+    "description": "<p><strong>The Garnet Choir is touring the United Kingdom this May</strong>. We invite our UK alumni to attend any of the following performances to hear the ensemble’s current repertoire.</p> <p>The students would love to see you in the audience as they share their work with international listeners.</p> <p><strong><u>Performance Schedule:</u></strong></p> <p><strong>Saturday, May 16 | 7:30 p.m.</strong> Performing with the Reading Bach Choir at St. James's Church, Sussex Gardens, London (W2 3UD). <a href=\"https://www.readingbachchoir.org.uk/dbpage.php?pg=view&dbase=events&id=310217\" target=\"_blank\" rel=\"noopener\">Purchase tickets here for £15.00</a>. A meet-and-greet will follow the performance, with choir members and alumni continuing the evening at <a href=\"https://www.swanhydepark.co.uk/\" target=\"_blank\" rel=\"noopener\">The Swan</a> for those who would like to join.<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Tuesday, May 19 | 5:30 p.m.</strong> Evensong with Selwyn College Choir at Selwyn College Chapel, Cambridge<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Wednesday, May 20 | 5:30 p.m</strong>. Evensong at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Thursday, May 21 | 1:00 p.m.</strong> Lunchtime Concert at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p>There is no formal registration or fee required for these events, except for the St. James's Church performance — simply arrive and enjoy the music. Guests are more than welcome to attend, so please feel free to bring family and friends along.</p> <p>We hope you can attend and enjoy a performance during the Garnet Choir’s UK tour!</p> <p>Warmly,<br />Swarthmore College Alumni</p>",
+    "startdate": "2026-05-19T17:30:00",
+    "enddate": "2026-05-19T18:30:00",
+    "allday": false,
+    "eventtype": "Performance",
+    "formatteddate": "Tuesday, May 19, 2026, 5:30&nbsp;&ndash;&nbsp;6:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "American Communities 1776-2026",
     "id": "1390576059",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576059",
@@ -1991,6 +1454,21 @@
   },
   {
     "title": "T&F Practice",
+    "id": "1322392401",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392401",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m2rug5vwmfnwcr8e01jda5f2n6",
+    "description": "",
+    "startdate": "2026-05-20T16:30:00",
+    "enddate": "2026-05-20T19:00:00",
+    "allday": false,
+    "eventtype": "Varsity Athletic Practice",
+    "formatteddate": "Wednesday, May 20, 2026, 4:30&nbsp;&ndash;&nbsp;7pm&nbsp;",
+    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
+    "organization": [],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "T&F Practice",
     "id": "1322392400",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392400",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mx5vczzxa4vh7z200w4y02w6e6",
@@ -2005,18 +1483,20 @@
     "__typename": "SwatCentralEvent"
   },
   {
-    "title": "T&F Practice",
-    "id": "1322392401",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392401",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m2rug5vwmfnwcr8e01jda5f2n6",
-    "description": "",
-    "startdate": "2026-05-20T16:30:00",
-    "enddate": "2026-05-20T19:00:00",
+    "title": "The Garnet Choir is touring the United Kingdom this May",
+    "id": "1395463330",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395463330",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/smx8p9pd0akfe8c5r4xppe5ufx",
+    "description": "<p><strong>The Garnet Choir is touring the United Kingdom this May</strong>. We invite our UK alumni to attend any of the following performances to hear the ensemble’s current repertoire.</p> <p>The students would love to see you in the audience as they share their work with international listeners.</p> <p><strong><u>Performance Schedule:</u></strong></p> <p><strong>Saturday, May 16 | 7:30 p.m.</strong> Performing with the Reading Bach Choir at St. James's Church, Sussex Gardens, London (W2 3UD). <a href=\"https://www.readingbachchoir.org.uk/dbpage.php?pg=view&dbase=events&id=310217\" target=\"_blank\" rel=\"noopener\">Purchase tickets here for £15.00</a>. A meet-and-greet will follow the performance, with choir members and alumni continuing the evening at <a href=\"https://www.swanhydepark.co.uk/\" target=\"_blank\" rel=\"noopener\">The Swan</a> for those who would like to join.<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Tuesday, May 19 | 5:30 p.m.</strong> Evensong with Selwyn College Choir at Selwyn College Chapel, Cambridge<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Wednesday, May 20 | 5:30 p.m</strong>. Evensong at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Thursday, May 21 | 1:00 p.m.</strong> Lunchtime Concert at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p>There is no formal registration or fee required for these events, except for the St. James's Church performance — simply arrive and enjoy the music. Guests are more than welcome to attend, so please feel free to bring family and friends along.</p> <p>We hope you can attend and enjoy a performance during the Garnet Choir’s UK tour!</p> <p>Warmly,<br />Swarthmore College Alumni</p>",
+    "startdate": "2026-05-20T17:30:00",
+    "enddate": "2026-05-20T18:30:00",
     "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Wednesday, May 20, 2026, 4:30&nbsp;&ndash;&nbsp;7pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
+    "eventtype": "Performance",
+    "formatteddate": "Wednesday, May 20, 2026, 5:30&nbsp;&ndash;&nbsp;6:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
+    ],
     "__typename": "SwatCentralEvent"
   },
   {
@@ -2076,18 +1556,20 @@
     "__typename": "SwatCentralEvent"
   },
   {
-    "title": "T&F Practice",
-    "id": "1322392403",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392403",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8shtrggumcu2j5m18es058th2d",
-    "description": "",
-    "startdate": "2026-05-21T16:30:00",
-    "enddate": "2026-05-21T20:00:00",
+    "title": "The Garnet Choir is touring the United Kingdom this May",
+    "id": "1395463331",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395463331",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cdtcfs3n2333j46jen2sm76gsz",
+    "description": "<p><strong>The Garnet Choir is touring the United Kingdom this May</strong>. We invite our UK alumni to attend any of the following performances to hear the ensemble’s current repertoire.</p> <p>The students would love to see you in the audience as they share their work with international listeners.</p> <p><strong><u>Performance Schedule:</u></strong></p> <p><strong>Saturday, May 16 | 7:30 p.m.</strong> Performing with the Reading Bach Choir at St. James's Church, Sussex Gardens, London (W2 3UD). <a href=\"https://www.readingbachchoir.org.uk/dbpage.php?pg=view&dbase=events&id=310217\" target=\"_blank\" rel=\"noopener\">Purchase tickets here for £15.00</a>. A meet-and-greet will follow the performance, with choir members and alumni continuing the evening at <a href=\"https://www.swanhydepark.co.uk/\" target=\"_blank\" rel=\"noopener\">The Swan</a> for those who would like to join.<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Tuesday, May 19 | 5:30 p.m.</strong> Evensong with Selwyn College Choir at Selwyn College Chapel, Cambridge<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Wednesday, May 20 | 5:30 p.m</strong>. Evensong at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p><strong>Thursday, May 21 | 1:00 p.m.</strong> Lunchtime Concert at Ely Cathedral, Ely<br style=\"mso-special-character: line-break;\" /></p> <p>There is no formal registration or fee required for these events, except for the St. James's Church performance — simply arrive and enjoy the music. Guests are more than welcome to attend, so please feel free to bring family and friends along.</p> <p>We hope you can attend and enjoy a performance during the Garnet Choir’s UK tour!</p> <p>Warmly,<br />Swarthmore College Alumni</p>",
+    "startdate": "2026-05-21T13:00:00",
+    "enddate": "2026-05-21T14:00:00",
     "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Thursday, May 21, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
+    "eventtype": "Performance",
+    "formatteddate": "Thursday, May 21, 2026, 1&nbsp;&ndash;&nbsp;2pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
+    ],
     "__typename": "SwatCentralEvent"
   },
   {
@@ -2102,6 +1584,21 @@
     "eventtype": "Varsity Athletic Practice",
     "formatteddate": "Thursday, May 21, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
     "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
+    "organization": [],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "T&F Practice",
+    "id": "1322392403",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392403",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8shtrggumcu2j5m18es058th2d",
+    "description": "",
+    "startdate": "2026-05-21T16:30:00",
+    "enddate": "2026-05-21T20:00:00",
+    "allday": false,
+    "eventtype": "Varsity Athletic Practice",
+    "formatteddate": "Thursday, May 21, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
+    "location": "Lamb Miller Fieldhouse WEST",
     "organization": [],
     "__typename": "SwatCentralEvent"
   },
@@ -2818,7 +2315,7 @@
     "id": "1281162995",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1281162995",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/s8dw6ac52gvjy5vc88ww4vsyx2",
-    "description": "<p dir=\"ltr\">Join our annual tradition of celebrating Swarthmore seniors during May’s Garnet Day! Please note that, since Thursday is the first day of exams, Garnet Day will be on Wednesday this month.</p> <p dir=\"ltr\">Garnet Day Celebration of the Class of 2026</p> <p dir=\"ltr\">Wednesday, May 6</p> <p dir=\"ltr\">4-6 p.m.</p> <p dir=\"ltr\">Pearson Lawn</p> <p dir=\"ltr\">There will be carnival games, music, and an array of snacks, including treats from Weckerly’s, Lil’ Pop Shop, and the Dia Dolce cupcake truck. Vegan, vegetarian, and gluten-free food options will be available. Everyone’s favorite feathered friend, Phineas, will also make an appearance! </p> <p dir=\"ltr\">We hope you can stop by to congratulate our seniors on their remarkable accomplishments, and wish them a wonderful future ahead. As always, remember to wear your Swarthmore gear to show your spirit!</p> <p dir=\"ltr\"> </p>",
+    "description": "<p dir=\"ltr\">Join our annual tradition of celebrating Swarthmore seniors during May’s Garnet Day! Please note that, since Thursday is the first day of exams, Garnet Day will be on Wednesday this month.</p> <p dir=\"ltr\">Garnet Day Celebration of the Class of 2026</p> <p dir=\"ltr\">Wednesday, May 6</p> <p dir=\"ltr\">4-6 p.m.</p> <p dir=\"ltr\">Clothier Hall</p> <p dir=\"ltr\">There will be carnival games, music, and an array of snacks, including treats from Weckerly’s, Lil’ Pop Shop, and the Dia Dolce cupcake truck. Vegan, vegetarian, and gluten-free food options will be available. Everyone’s favorite feathered friend, Phineas, will also make an appearance! </p> <p dir=\"ltr\">We hope you can stop by to congratulate our seniors on their remarkable accomplishments, and wish them a wonderful future ahead. As always, remember to wear your Swarthmore gear to show your spirit!</p> <p dir=\"ltr\"> </p>",
     "startdate": "2026-06-04T11:30:00",
     "enddate": "2026-06-04T13:30:00",
     "allday": false,
