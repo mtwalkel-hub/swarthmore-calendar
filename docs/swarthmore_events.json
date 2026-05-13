@@ -1,539 +1,6 @@
 [
   {
     "title": "Course Final & Honors written examinations.",
-    "id": "1286562302",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562302",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ssbaeh7mxzy4z0t7gdyjerfjyt",
-    "description": "",
-    "startdate": "2026-05-08T00:00:00",
-    "enddate": "2026-05-08T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Friday, May 8, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576047",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576047",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0af0pmcbkz9cvw7mwm8snkw21b",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-08T08:30:00",
-    "enddate": "2026-05-08T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Friday, May 8, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "CWP End-of-Year Party and Reading",
-    "id": "1382412316",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1382412316",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/srczezj7ua669yv392mxy3h7xj",
-    "description": "<p>What: English Department CWP end-of-year party and and reading </p> <p>When: May 8th at 12:00</p> <p>Where: Scheuer Room , Kohlberg Hall </p> <p>Refreshments will be served. Please join us! </p>",
-    "startdate": "2026-05-08T12:00:00",
-    "enddate": "2026-05-08T14:30:00",
-    "allday": false,
-    "eventtype": "Reception",
-    "formatteddate": "Friday, May 8, 2026, 12&nbsp;&ndash;&nbsp;2:30pm&nbsp;",
-    "location": "Martin Hall Terrace, Martin Hall 028 Lobby, Martin Hall 025 Kitchen",
-    "organization": [
-      "English Literature"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Study Abroad 101",
-    "id": "1370415915",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1370415915",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cmz2krwmjxs38m01mryyn0mjhf",
-    "description": "<p>Are you interested in studying abroad during the Spring 2027 Semester? Planning should begin now. The GEO deadline to apply to study abroad in the Spring 2027 semester is June 1, 2026. Your first step is to attend an GEO Study Abroad 101 Information Session. This session is the first GEO requirement in the Swarthmore Approval for Study Abroad process. You will learn essential information to consider while planning, as well as next steps to choose and apply for programs</p>",
-    "startdate": "2026-05-08T13:00:00",
-    "enddate": "2026-05-08T14:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Friday, May 8, 2026, 1&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "McCabe Library Room 320-Video Classroom",
-    "organization": [
-      "Global Engagement Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Pedagogical Partnership Showcase",
-    "id": "1389731562",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389731562",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cs3958uxt6fdm3mfs2bu13anmy",
-    "description": "<p>Pedagogical Partnership Showcase </p>",
-    "startdate": "2026-05-08T14:00:00",
-    "enddate": "2026-05-08T16:00:00",
-    "allday": false,
-    "eventtype": "Reception",
-    "formatteddate": "Friday, May 8, 2026, 2&nbsp;&ndash;&nbsp;4pm&nbsp;",
-    "location": "McCabe LibLab, Full Space, Conference Room",
-    "organization": [
-      "Teaching and Learning Commons"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392384",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392384",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0x0eeepurfzxm0fapgn1bm2jzg",
-    "description": "",
-    "startdate": "2026-05-08T16:30:00",
-    "enddate": "2026-05-08T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Friday, May 8, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392385",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392385",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/s6ta8ru3mxrrssn16tg7chug6u",
-    "description": "",
-    "startdate": "2026-05-08T16:30:00",
-    "enddate": "2026-05-08T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Friday, May 8, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Film & Media Studies Capstone Showcase",
-    "id": "1379655788",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1379655788",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/skfndy9s10hh66td490cx5p4pe",
-    "description": "<p>Showcase of work seniors in the Film & Media Studies Capstone class, Archives of Care, have created this semester.</p>",
-    "startdate": "2026-05-08T18:30:00",
-    "enddate": "2026-05-08T20:00:00",
-    "allday": false,
-    "eventtype": "Film/Movie",
-    "formatteddate": "Friday, May 8, 2026, 6:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Martin Hall 028 Ping and Rose Chen Screening Room",
-    "organization": [
-      "Department of Film and Media Studies"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Shabbat Dinner @Chabad",
-    "id": "1355641048",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1355641048",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/80ge3ekdhbf49093xeh02tfngp",
-    "description": "<p>Join SwatJews for a delicious, fun, and uplifting family-style Shabbat Dinner at the Chabad House, 312 Elm Ave. </p> <p>Text CHALLAH to 6107561693 to RSVP</p> <p>Email <a href=\"mailto:rwolf2@swarthmore.edu\" target=\"_blank\" rel=\"noopener\">rwolf2@swarthmore.edu</a> with any questions</p>",
-    "startdate": "2026-05-08T19:30:00",
-    "enddate": "2026-05-08T21:00:00",
-    "allday": false,
-    "eventtype": "Religious Event",
-    "formatteddate": "Friday, May 8, 2026, 7:30&nbsp;&ndash;&nbsp;9pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Chabad"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Course Final & Honors written examinations.",
-    "id": "1286562303",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562303",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cyjmdus38520txvzkjee7vv50t",
-    "description": "",
-    "startdate": "2026-05-09T00:00:00",
-    "enddate": "2026-05-09T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Saturday, May 9, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392387",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392387",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sgbvb212skrnhmp50zfs7thw30",
-    "description": "",
-    "startdate": "2026-05-09T07:00:00",
-    "enddate": "2026-05-09T10:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Saturday, May 9, 2026, 7&nbsp;&ndash;&nbsp;10am&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392386",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392386",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8kvh289gtytehz48k2z0wzf77s",
-    "description": "",
-    "startdate": "2026-05-09T07:00:00",
-    "enddate": "2026-05-09T10:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Saturday, May 9, 2026, 7&nbsp;&ndash;&nbsp;10am&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576048",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576048",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mgbjrr3djvhjawv46gt16kgzuy",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-09T10:00:00",
-    "enddate": "2026-05-09T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Saturday, May 9, 2026, 10am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392389",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392389",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/84smjvujppj7yemjgrvymgurkk",
-    "description": "",
-    "startdate": "2026-05-09T10:00:00",
-    "enddate": "2026-05-09T12:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Saturday, May 9, 2026, 10am&nbsp;&ndash;&nbsp;12pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392388",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392388",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/86tys3znes8s7fbt644g0tzcge",
-    "description": "",
-    "startdate": "2026-05-09T10:00:00",
-    "enddate": "2026-05-09T12:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Saturday, May 9, 2026, 10am&nbsp;&ndash;&nbsp;12pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Judo Practice",
-    "id": "1352971744",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1352971744",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wwd754tfr45vrhsgg9yj3tzfp1",
-    "description": "<p>Judo practice</p>",
-    "startdate": "2026-05-09T11:00:00",
-    "enddate": "2026-05-09T14:00:00",
-    "allday": false,
-    "eventtype": "Student Group Meeting/Practice",
-    "formatteddate": "Saturday, May 9, 2026, 11am&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Judo Club"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Future Garnet Clinic Lunch",
-    "id": "1393647337",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1393647337",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gec7m3t873cu4jbj8aeuf5rrf9",
-    "description": "<p>Lunch for attendees of Volleyball's Future Garnet clinic, including participants, coaches, and players.</p>",
-    "startdate": "2026-05-09T12:30:00",
-    "enddate": "2026-05-09T13:30:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Saturday, May 9, 2026, 12:30&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "Dining Center 150 - Class of 1984 Dining Room",
-    "organization": [
-      "Athletics"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "GEMS at the Gym",
-    "id": "1353111400",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1353111400",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gywp636vn4z88r3yr13a3cux7s",
-    "description": "<p>We highly encourage those identifying as femme, trans, and gender non-conforming to work out together and build community at the Matchbox. Everyone is welcome regardless of sex/gender.</p>",
-    "startdate": "2026-05-09T16:00:00",
-    "enddate": "2026-05-09T18:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Saturday, May 9, 2026, 4&nbsp;&ndash;&nbsp;6pm&nbsp;",
-    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
-    "organization": [
-      "Recreation & Wellness",
-      "Be Well",
-      "GSC"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Psi Phi Weekly Dinner",
-    "id": "1353822206",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1353822206",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/87h138f41kbzrk8erbph9ztjb7",
-    "description": "<p>Eat, chat, and play games with Psi Phi!</p>",
-    "startdate": "2026-05-09T17:30:00",
-    "enddate": "2026-05-09T19:00:00",
-    "allday": false,
-    "eventtype": "Student Group Meeting/Practice",
-    "formatteddate": "Saturday, May 9, 2026, 5:30&nbsp;&ndash;&nbsp;7pm&nbsp;",
-    "location": "Dining Center Teaching Kitchen 201S",
-    "organization": [
-      "Psi Phi (not a frat)"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Course Final & Honors written examinations.",
-    "id": "1286562304",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562304",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/svv53bvydfaz3gm9gruee34dx7",
-    "description": "",
-    "startdate": "2026-05-10T00:00:00",
-    "enddate": "2026-05-10T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Sunday, May 10, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576049",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576049",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/s28e88xzapxz2tx548dnz35hdk",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-10T10:00:00",
-    "enddate": "2026-05-10T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Sunday, May 10, 2026, 10am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Course Final & Honors written examinations.",
-    "id": "1286562305",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562305",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0sx5pmw2jrbpurxfyd9c9hund4",
-    "description": "",
-    "startdate": "2026-05-11T00:00:00",
-    "enddate": "2026-05-11T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Monday, May 11, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576050",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576050",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/070606xvyhjrugzpdaj084fve6",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-11T08:30:00",
-    "enddate": "2026-05-11T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Monday, May 11, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Takeaways From The First International Conference On Transitioning Away From Fossil Fuels",
-    "id": "1395827513",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395827513",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c1e5ss324gwfhykzuf2cms26vw",
-    "description": "<p>Lang Opportunity Scholar Keanu Arpels-Josiah '28, a longtime climate justice organizer and environmental studies student, will reflect on his recent return from <span>The First International Conference on Transitioning Away From Fossil Fuels. </span></p> <p><span>The conference was hosted in April in Santa Marta, Colombia, as a space for committed governments, civil society, youth, and indigenous leaders to come together and chart a future beyond fossil fuels. The clear thread was the implication of the broader systems of imperialism, patriarchy, and extractivism, whose end is necessary for such a transition to be possible — and whose biggest enforcer remains to be the United States.</span></p> <p>The talk is entitled <em><span><strong>How We Dismantle The Petromasculine-Tech-Imperial Industrial Complex:</strong></span> </em><span><em>Takeaways From The First International Conference On Transitioning Away From Fossil Fuels</em>, and it is sponsored by the Environmental Justice & Community Resilience Program at the Lang Center.</span></p>",
-    "startdate": "2026-05-11T13:00:00",
-    "enddate": "2026-05-11T14:00:00",
-    "allday": false,
-    "eventtype": "Student Activity (no alcohol)",
-    "formatteddate": "Monday, May 11, 2026, 1&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "Intercultural Center Big Room - ICC",
-    "organization": [
-      "Environmental Justice",
-      "Lang Center for Civic & Social Responsil"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Swat Talk: Laura Hirai `22",
-    "id": "1380668585",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1380668585",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cw6dgbtnfe0hzppuhr5e1w54um",
-    "description": "<p><strong>In a League of Her Own:<br />A Conversation with</strong></p> <p><strong>Women’s Baseball Pioneer Laura Hirai ’22</strong></p> <p><strong>Please join Laura for a conversation with Ana Apostoleris Rivera ’13 about her pioneering experiences and her insights on the future of women's baseball.</strong></p> <p><a href=\"https://engage.swarthmore.edu/register/form?id=cd9c29ae-bc9c-438a-8dc7-4f419b9a97ca\" target=\"_blank\" rel=\"noopener\">RSVP here</a></p> <p>As a young girl, Laura Hirai ’22 fell in love with baseball. Growing up in Japan, she recalls her experience with the sport was not particularly gendered. It was not until she attempted to attend a baseball camp in the US, and was told it was only for boys, that she realized she may face some obstacles to achieving her diamond dreams. Like many Swarthmore students, Laura approached these obstacles as a challenge rather than a deterrent, and at 26 years old has become a global face of women's baseball. Her resume includes being the first, and thus far only, woman to represent Great Britain in U18 baseball; becoming the first \"ball girl\" for the New York Yankees during the first Major League Baseball game played in England in 2019; and being drafted in the fifth round in the inaugural draft of the US-based Women's Professional Baseball League, which is set to begin play in August. Laura also played varsity softball at Swarthmore.</p> <p>Laura Hirai ’22 graduated with a Bachelor of Arts in Arabic and Spanish. A dual-sport athlete at the international level, she is also the first person to represent Great Britain in both baseball and softball simultaneously at the national level, pitching at the European Baseball Championships in 2015 and 2017. One of only three European athletes selected in the inaugural Women's Professional Baseball League draft, Laura most recently helped Great Britain claim gold in women's baseball and bronze in softball at the European Championships, with both teams earning World Cup berths.</p> <p><a href=\"https://www.swarthmore.edu/alumni-resources-events/swattalks\" target=\"_blank\" rel=\"noopener\">SwatTalks</a> is an Alumni Council initiative that engages the broader Swarthmore community through webinars featuring alumni and faculty members excelling in their fields. Each hour-long online seminar is free and open to Swarthmore alumni, families, faculty, staff, students, and friends. We welcome suggestions for future speakers and topics — please email your ideas to <a href=\"mailto:alumni@swarthmore.edu\" target=\"_blank\" rel=\"noopener\">alumni@swarthmore.edu</a>.</p> <p> </p>",
-    "startdate": "2026-05-11T20:00:00",
-    "enddate": "2026-05-11T21:00:00",
-    "allday": false,
-    "eventtype": "Lecture/Panel Discussion",
-    "formatteddate": "Monday, May 11, 2026, 8&nbsp;&ndash;&nbsp;9pm&nbsp;",
-    "location": "",
-    "organization": [
-      "College Advancement"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Course Final & Honors written examinations.",
-    "id": "1286562306",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562306",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g4xjuph736tx2zvc3ney3s03a3",
-    "description": "",
-    "startdate": "2026-05-12T00:00:00",
-    "enddate": "2026-05-12T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Tuesday, May 12, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576051",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576051",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4fx9fm5juzv4gyur6xnxvuk669",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-05-12T08:30:00",
-    "enddate": "2026-05-12T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Tuesday, May 12, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Campus Culture & Climate Survey Report Listening Sessions: Staff",
-    "id": "1390047766",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390047766",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wxf6j64ppy25tdy0uwpab31088",
-    "description": "<div><br /><p dir=\"ltr\">Vice President for Diversity, Equity, and Inclusion Brooke Vick recently shared the results of Swarthmore’s <span>Campus</span> Culture & <span>Climate Survey</span> with our community. The <span>survey</span> captured student, faculty, and staff perspectives on living, learning and working at Swarthmore — you can learn more and find the full report on the <a href=\"https://www.swarthmore.edu/campus-climate-survey\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.swarthmore.edu/campus-climate-survey&source=gmail&ust=1776284329420000&usg=AOvVaw3ybYxF78IEOYoRbSvvTJnf\"><span>Campus</span> <span>Climate Survey</span> website</a>.</p><br /><span style=\"font-family: arial, sans-serif;\"><br /></span>What do you think about the <span>survey</span> findings? Do they reflect your experience at the <span>College</span>? What would you like to see come out of this <span>survey</span>, as we plan together for the future of Swarthmore?</div><br /><div><span style=\"font-family: arial, sans-serif;\">M<span>eals for ALL in-person sessions are</span> covered by the Office of DEI.</span></div><br /><p dir=\"ltr\">If you can’t make these sessions, you can attend another one of the sessions listed on the <a href=\"https://www.swarthmore.edu/campus-climate-survey/events\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.swarthmore.edu/campus-climate-survey/events&source=gmail&ust=1776284329420000&usg=AOvVaw3XS-KS2da1LcdM7rZjYU2a\">Events page</a> of the <a href=\"https://www.swarthmore.edu/campus-climate-survey\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.swarthmore.edu/campus-climate-survey&source=gmail&ust=1776284329420000&usg=AOvVaw3ybYxF78IEOYoRbSvvTJnf\"><span>Campus</span> <span>Climate Survey</span> website</a> (please log in with your Swarthmore credentials to view), share your input through our <a href=\"https://www.swarthmore.edu/campus-climate-survey/share-your-feedback\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.swarthmore.edu/campus-climate-survey/share-your-feedback&source=gmail&ust=1776284329420000&usg=AOvVaw0PR3Vn5f0OkbKinBx1lJuy\">feedback form</a>, or email <a href=\"mailto:culturesurvey@swarthmore.edu\" target=\"_blank\" rel=\"noopener\">culturesurvey@swarthmore.edu</a>.</p> <p dir=\"ltr\">We look forward to hearing from you!</p>",
-    "startdate": "2026-05-12T09:00:00",
-    "enddate": "2026-05-12T10:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, May 12, 2026, 9&nbsp;&ndash;&nbsp;10am&nbsp;",
-    "location": "",
-    "organization": [
-      "Office of Diversity",
-      "Equity",
-      "and Inclusi"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392391",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392391",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mv8kujh9zvhj367d6a3vju5rv4",
-    "description": "",
-    "startdate": "2026-05-12T16:30:00",
-    "enddate": "2026-05-12T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 12, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
-    "id": "1322392390",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392390",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4z411wgdu9y96s542mwhvstfv1",
-    "description": "",
-    "startdate": "2026-05-12T16:30:00",
-    "enddate": "2026-05-12T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Tuesday, May 12, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "SwatPDX Book Club",
-    "id": "1391946007",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391946007",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gk5g8fh3f1gkhf5sbeebap9j35",
-    "description": "<p>We’re on our 4th SwatPDX book club meeting and would love to have you join us on <strong>Tuesday, May 12, 7-9 p.m</strong>. The book selection is <em>Train Dreams</em> by Denis Johnson. The meeting address is an alum’s Portland home in Raleigh Hills and will be sent to attendees a few days before the meeting.<br /> <br />Please <strong><a title=\"https://docs.google.com/forms/d/e/1FAIpQLScIp4o5VTn7QO5VY5vLF2mlYROX8FeGK-9iUXIi64MNUa1GFw/viewform\" href=\"https://mx.technolutions.net/ss/c/u001.jKKzQUcpHA9pz4v9f1hTAdC3VpYj437Kn1917GrbCATxaqnDDNLNESsd5umJJmKMuIjXDDpaKc69R1554U8JK2V9s-Becks8blLAwWkKGu2zYqOB2dwrqNN996-Twq3R3fI0YdQ9IQ7xM38OlPuyKw/4pu/MNz26nG8QyiT4AijYwZnWw/h0/h001.jSeVPdZHiA_5BIoNAkNkdiuk_Nq8iy0kVXrEmsp8bhM\" target=\"_blank\" rel=\"noopener\">RSVP for the book club</a> by May 5</strong>. The form includes a section to indicate your interest in future book club meetings and to receive communications about other SwatPDX events, even if you can’t attend the May book club meeting.</p> <p>We hope to see you at one of our events!</p> <p>Sincerely,</p> <p>Ana Cragnolino ’93, Catherine Rose ’97, and Becky Voorheis ’93<br />SwatPDX co-leads</p> <p> </p>",
-    "startdate": "2026-05-12T19:00:00",
-    "enddate": "2026-05-12T21:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, May 12, 2026, 7&nbsp;&ndash;&nbsp;9pm&nbsp;",
-    "location": "",
-    "organization": [
-      "College Advancement"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Peter van de Kamp Observatory Open House",
-    "id": "1364584546",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584546",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/czmdewcf7xyyksas82zvrx7z9s",
-    "description": "<p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time.</p> <p>If the weather is bad, the open house will be cancelled and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
-    "startdate": "2026-05-12T21:00:00",
-    "enddate": "2026-05-12T22:00:00",
-    "allday": false,
-    "eventtype": "Open House",
-    "formatteddate": "Tuesday, May 12, 2026, 9&nbsp;&ndash;&nbsp;10pm&nbsp;",
-    "location": "Science Center Peter Van de Kamp Observatory, Science Center Observatory Computer Room",
-    "organization": [
-      "Physics and Astronomy"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Course Final & Honors written examinations.",
     "id": "1286562307",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562307",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0rju6h3kjkfxdzk627pgaw4dwc",
@@ -829,7 +296,7 @@
     "allday": false,
     "eventtype": "Exhibit",
     "formatteddate": "Friday, May 15, 2026, 4:30&nbsp;&ndash;&nbsp;5:30pm&nbsp;",
-    "location": "",
+    "location": "List Gallery in the Lang Performing Arts Center",
     "organization": [
       "Art and Art History Department"
     ],
@@ -1387,6 +854,28 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "Staff Summer Reading Kick-Off",
+    "id": "1396795802",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1396795802",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ce16j9m062jf0x2f1pz11w4ha8",
+    "description": "<p>Staff Summer Reading starts today! Stop by McCabe to make a custom bookmark and launch your reading journey. We'll also be available to register you for the program and answer any questions you have.</p> <p>Come when you can , leave when you must.</p>",
+    "startdate": "2026-05-22T13:00:00",
+    "enddate": "2026-05-22T15:45:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Friday, May 22, 2026, 1&nbsp;&ndash;&nbsp;3:45pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Swarthmore College Libraries",
+      "Be Well",
+      "Office of Diversity",
+      "Equity",
+      "and Inclusi",
+      "PSAC President's Staff Advisory Council"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "Phi Beta Kappa induction Ceremony",
     "id": "1358634042",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1358634042",
@@ -1440,21 +929,6 @@
   },
   {
     "title": "T&F Practice",
-    "id": "1322392404",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392404",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8zwxabnhpcdr696fwa0pmc6arp",
-    "description": "",
-    "startdate": "2026-05-22T16:30:00",
-    "enddate": "2026-05-22T20:00:00",
-    "allday": false,
-    "eventtype": "Varsity Athletic Practice",
-    "formatteddate": "Friday, May 22, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
-    "location": "Lamb Miller Fieldhouse WEST",
-    "organization": [],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "T&F Practice",
     "id": "1322392405",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392405",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gswt2p07r8emme3zhayk8wjx92",
@@ -1465,6 +939,21 @@
     "eventtype": "Varsity Athletic Practice",
     "formatteddate": "Friday, May 22, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
     "location": "Clothier Stadium Walter T. Skallerup Jr. Track",
+    "organization": [],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "T&F Practice",
+    "id": "1322392404",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1322392404",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8zwxabnhpcdr696fwa0pmc6arp",
+    "description": "",
+    "startdate": "2026-05-22T16:30:00",
+    "enddate": "2026-05-22T20:00:00",
+    "allday": false,
+    "eventtype": "Varsity Athletic Practice",
+    "formatteddate": "Friday, May 22, 2026, 4:30&nbsp;&ndash;&nbsp;8pm&nbsp;",
+    "location": "Lamb Miller Fieldhouse WEST",
     "organization": [],
     "__typename": "SwatCentralEvent"
   },
@@ -2940,6 +2429,26 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "Honey Tasting",
+    "id": "1396675797",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1396675797",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ws6wfb8bycy1330uxahs1hc3gz",
+    "description": "<p>Join us in Whittier Meadow to see how our bees are doing and enjoy honey tasting with the Philadelphia Bee Guild.</p> <p>This will occur between 4-5pm.</p> <p>No sign up necessary - simply come!</p>",
+    "startdate": "2026-06-24T16:00:00",
+    "enddate": "2026-06-24T17:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Wednesday, June 24, 2026, 4&nbsp;&ndash;&nbsp;5pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Scott Arboretum",
+      "Be Well",
+      "Environmental Studies",
+      "Sustainability"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "American Communities 1776-2026",
     "id": "1390576085",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576085",
@@ -3074,6 +2583,24 @@
     "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
     "organization": [
       "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Lamiaceae - the Mint Family",
+    "id": "1396675798",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1396675798",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/08m9smn5f7fvnr4frz6kd8d8we",
+    "description": "<p>Join us for a workshop on the mint family - we'll learn about what's in this family, then make infused honey and a sugar scrub. </p> <p>Please sign up here: <a href=\"https://www.signupgenius.com/go/60B0E4DAFAF23A3F94-64056555-botany\" target=\"_blank\" rel=\"noopener\" title=\"https://www.signupgenius.com/go/60B0E4DAFAF23A3F94-64056555-botany\">www.signupgenius.com…</a></p> <p>The event will occur in the Wister Center.</p> <p> </p> <p> </p>",
+    "startdate": "2026-06-29T16:30:00",
+    "enddate": "2026-06-29T18:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Monday, June 29, 2026, 4:30&nbsp;&ndash;&nbsp;6pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Scott Arboretum",
+      "Be Well"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -3299,6 +2826,215 @@
     "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
     "organization": [
       "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576092",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576092",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/497jwg577gdhf5d5zbzxg6nu8y",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-07-07T08:30:00",
+    "enddate": "2026-07-07T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Tuesday, July 7, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Pilates with Cathy Raymond",
+    "id": "1381777519",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777519",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gaxthcj67vke3t2aay5astetxr",
+    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
+    "startdate": "2026-07-07T12:00:00",
+    "enddate": "2026-07-07T13:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Tuesday, July 7, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Summer 2026 Workshop Series: Balance and Boundaries",
+    "id": "1395671882",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671882",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/shcaj3v3zwp3rnzma00y1u5pv6",
+    "description": "<p><strong id=\"docs-internal-guid-23e5c051-7fff-acbc-f461-4d519d59e234\">Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p>Learn ways to set and maintain realistic boundaries to better manage your time and support your personal well-being. In this workshop, we will explore strategies to find balance and thrive in academic and professional settings.</p> <p><em>Presented by Dean Liz Derickson, Associate Dean of Academic Success; Melissa Mandos, Director of Student Academic Mentors and Fellowships & Prizes Advisor; and Ashley Netanel, Associate Director of Health Promotion & Wellness Initiatives.</em></p>",
+    "startdate": "2026-07-07T12:00:00",
+    "enddate": "2026-07-07T13:30:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Tuesday, July 7, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Provost's Office",
+      "Beyond The Classroom",
+      "Division of Student Affairs"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Hatha Yoga with Stacy Bomento",
+    "id": "1391945954",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945954",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wxxn6xvtwhmczadmkfed9gc5xv",
+    "description": "<p dir=\"ltr\">This Hatha yoga class will focus on breathing and mindful movement, helping to increase strength and flexibility. Offering modifications for various postures, this class is accessible to all levels of practice. Each practice will include poses, breathing exercises, and a restorative and calming finish, followed by guided meditation. <strong><em>**There will be no class on July 21**</em></strong></p>",
+    "startdate": "2026-07-07T16:45:00",
+    "enddate": "2026-07-07T17:45:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Tuesday, July 7, 2026, 4:45&nbsp;&ndash;&nbsp;5:45pm&nbsp;",
+    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576093",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576093",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wycv1jmxwhcby8ba4x2d6895p9",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-07-08T08:30:00",
+    "enddate": "2026-07-08T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Wednesday, July 8, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Crum Woods Walk",
+    "id": "1396675799",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1396675799",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0kpskn9ab5999250jbugtvrvvv",
+    "description": "<p>Join us for a morning walk through the Crum Woods.  We'll start at the bottom of the Scott Amphitheater and walk approximately one mile to the Matchbox.</p> <p>Please wear sturdy shoes and bring a water bottle.  This is not a fast walk, but we will be on uneven terrain and walking up and down the hills.</p> <p>No need to sign up.</p> <p> </p>",
+    "startdate": "2026-07-08T09:00:00",
+    "enddate": "2026-07-08T10:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Wednesday, July 8, 2026, 9&nbsp;&ndash;&nbsp;10am&nbsp;",
+    "location": "",
+    "organization": [
+      "Scott Arboretum",
+      "Be Well"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Pilates with Cathy Raymond",
+    "id": "1381777520",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777520",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/878e13h1yyzfy6mypp88gp6694",
+    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
+    "startdate": "2026-07-08T12:00:00",
+    "enddate": "2026-07-08T13:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Wednesday, July 8, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576094",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576094",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m2k8yyw0g713ps8wven6dr88fw",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-07-09T08:30:00",
+    "enddate": "2026-07-09T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Thursday, July 9, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Hatha Yoga with Stacy Bomento",
+    "id": "1391945955",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945955",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4nypayhaw50xc0x3n8w7nea2z7",
+    "description": "<p dir=\"ltr\">This Hatha yoga class will focus on breathing and mindful movement, helping to increase strength and flexibility. Offering modifications for various postures, this class is accessible to all levels of practice. Each practice will include poses, breathing exercises, and a restorative and calming finish, followed by guided meditation. <em><strong>**There will be no class on July 23**</strong></em></p>",
+    "startdate": "2026-07-09T12:00:00",
+    "enddate": "2026-07-09T12:45:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Thursday, July 9, 2026, 12&nbsp;&ndash;&nbsp;12:45pm&nbsp;",
+    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Summer 2026 Workshop Series: Balance and Boundaries",
+    "id": "1395671883",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671883",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gnxu107nje7u12aaj8nk1rzzz7",
+    "description": "<p><strong id=\"docs-internal-guid-23e5c051-7fff-acbc-f461-4d519d59e234\">Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p>Learn ways to set and maintain realistic boundaries to better manage your time and support your personal well-being. In this workshop, we will explore strategies to find balance and thrive in academic and professional settings.</p> <p><em>Presented by Dean Liz Derickson, Associate Dean of Academic Success; Melissa Mandos, Director of Student Academic Mentors and Fellowships & Prizes Advisor; and Ashley Netanel, Associate Director of Health Promotion & Wellness Initiatives.</em></p>",
+    "startdate": "2026-07-09T12:00:00",
+    "enddate": "2026-07-09T13:30:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Thursday, July 9, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Provost's Office",
+      "Beyond The Classroom",
+      "Division of Student Affairs"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Group Circuit Training with Chris",
+    "id": "1381777521",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777521",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ggx3b9r602ujvwtr82dmhm1yba",
+    "description": "<p><span style=\"font-weight: 400;\">Do you struggle to figure out which workout to do at the gym, or do you need some extra motivation? If so, this class is for you. Receive personal attention to help you improve your overall fitness through a total body workout. The class will offer modifications or challenges to suit each participant. </span><strong>Missed a workout? Review past workouts </strong><a href=\"https://drive.google.com/drive/folders/1tQbytlGgwYxVPjp_ywwW47-9XC4nFjL7?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>online</strong></a><strong>.</strong><span style=\"font-weight: 400;\"> </span></p>",
+    "startdate": "2026-07-09T12:15:00",
+    "enddate": "2026-07-09T13:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Thursday, July 9, 2026, 12:15&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Appetizers & One-Pan Meals",
+    "id": "1389889584",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389889584",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sb3meb31dctdrb2xx92zxr7nyw",
+    "description": "<p> Master quick, flavorful dishes perfect for busy schedules</p>",
+    "startdate": "2026-07-10T13:00:00",
+    "enddate": "2026-07-10T15:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Friday, July 10, 2026, 1&nbsp;&ndash;&nbsp;3pm&nbsp;",
+    "location": "Dining Center Teaching Kitchen 201S",
+    "organization": [
+      "Dining Services"
     ],
     "__typename": "SwatCentralEvent"
   }
