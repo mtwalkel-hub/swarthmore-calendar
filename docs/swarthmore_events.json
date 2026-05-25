@@ -1,107 +1,5 @@
 [
   {
-    "title": "Baccalaureate",
-    "id": "1286562316",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562316",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0ncgbrzm86g23buft7n976756b",
-    "description": "",
-    "startdate": "2026-05-23T00:00:00",
-    "enddate": "2026-05-23T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Saturday, May 23, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Shavuot ends at sundown",
-    "id": "1350858491",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1350858491",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0jwr8azgkpgnetrkdfvenecj01",
-    "description": "",
-    "startdate": "2026-05-23T00:00:00",
-    "enddate": "2026-05-23T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Saturday, May 23, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Religious and Spiritual Life"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "History Department Senior Reception",
-    "id": "1358634043",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1358634043",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c8057hfb5fc5rvd48n3c0fht2f",
-    "description": "<p>Celebrate graduation with Professors from the History Department. </p> <p>In case of rain, event will be held on the 2nd floor of Old Science Bldg</p>",
-    "startdate": "2026-05-23T16:00:00",
-    "enddate": "2026-05-23T18:00:00",
-    "allday": false,
-    "eventtype": "Reception",
-    "formatteddate": "Saturday, May 23, 2026, 4&nbsp;&ndash;&nbsp;6pm&nbsp;",
-    "location": "Nason Garden",
-    "organization": [
-      "History"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Mathematics & Statistics Senior Reception",
-    "id": "1376815638",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1376815638",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/me38r52ars07fcjkjmevba3gep",
-    "description": "<p style=\"font-weight: 400;\">The Faculty of the Mathematics & Statistics Department is delighted to invite you to join us in celebrating the accomplishments of our graduating majors and minors. This significant milestone is a testament to their hard work, dedication, and passion for the field.</p> <p style=\"font-weight: 400;\"> </p>",
-    "startdate": "2026-05-23T16:30:00",
-    "enddate": "2026-05-23T17:30:00",
-    "allday": false,
-    "eventtype": "Reception",
-    "formatteddate": "Saturday, May 23, 2026, 4:30&nbsp;&ndash;&nbsp;5:30pm&nbsp;",
-    "location": "Science Center - Eldridge Commons",
-    "organization": [
-      "Mathematics and Statistics"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Commencement",
-    "id": "1286562317",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562317",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4hv5h8ytx4ft6a69tx9vgt9jeu",
-    "description": "",
-    "startdate": "2026-05-24T00:00:00",
-    "enddate": "2026-05-24T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Sunday, May 24, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Buddha's Birthday/Buddha Purnima",
-    "id": "1350858492",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1350858492",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/se1upeucw9tzw1fcbbxju9fzms",
-    "description": "",
-    "startdate": "2026-05-24T00:00:00",
-    "enddate": "2026-05-24T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Sunday, May 24, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Religious and Spiritual Life"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
     "title": "Residence halls close",
     "id": "1286562318",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562318",
@@ -2457,6 +2355,213 @@
     "location": "Matchbox Tarble Commons Upper Level",
     "organization": [
       "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "AALAC",
+    "id": "1383366375",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1383366375",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/grxz84jy7x2ce5f4p5vm01xcrr",
+    "description": "<p>AALAC Conference</p>",
+    "startdate": "2026-07-22T08:00:00",
+    "enddate": "2026-07-22T18:00:00",
+    "allday": false,
+    "eventtype": "Conference",
+    "formatteddate": "Wednesday, July 22, 2026, 8am&nbsp;&ndash;&nbsp;6pm&nbsp;",
+    "location": "Science Center Room 101- Chang Hou Hall Tiered Classroom",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "AALAC Quiet Rooms",
+    "id": "1383366376",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1383366376",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g22fh84b92z9m4476h5cpnp0zx",
+    "description": "<p>AALAC Quiet Rooms</p>",
+    "startdate": "2026-07-22T08:00:00",
+    "enddate": "2026-07-22T18:00:00",
+    "allday": false,
+    "eventtype": "Conference",
+    "formatteddate": "Wednesday, July 22, 2026, 8am&nbsp;&ndash;&nbsp;6pm&nbsp;",
+    "location": "Kohlberg Room 114 - Classroom, Kohlberg Room 201-Seminar Room, Kohlberg Room 202-Seminar Room, Kohlberg Room 302-Classroom",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576102",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576102",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/whnt3futv8ngtwrvv2ej1rxe3j",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-07-22T08:30:00",
+    "enddate": "2026-07-22T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Wednesday, July 22, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Pilates with Cathy Raymond",
+    "id": "1381777528",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777528",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sy4n5hmadmewa3wnd4gabrme46",
+    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
+    "startdate": "2026-07-22T12:00:00",
+    "enddate": "2026-07-22T13:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Wednesday, July 22, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Bookbinding workshop #1: Stab stitch",
+    "id": "1398775815",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1398775815",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8t7c6dey3mvk4p4fyr614drdmv",
+    "description": "<p>Join us to learn a basic bookbinding technique, the stab stitch. All materials will be provided, including optional supplies to turn your book into a zine or other work of art.</p> <p> </p> <p>Sponsored by Staff Summer Reading, this program is open to all staff, students, and faculty.</p>",
+    "startdate": "2026-07-22T13:00:00",
+    "enddate": "2026-07-22T14:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Wednesday, July 22, 2026, 1&nbsp;&ndash;&nbsp;2pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "AALAC BBQ",
+    "id": "1383366378",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1383366378",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/s11t335b0bge8ndvzj55b96hvt",
+    "description": "<p>AALAC BBQ</p>",
+    "startdate": "2026-07-22T16:30:00",
+    "enddate": "2026-07-22T22:00:00",
+    "allday": false,
+    "eventtype": "Reception",
+    "formatteddate": "Wednesday, July 22, 2026, 4:30&nbsp;&ndash;&nbsp;10pm&nbsp;",
+    "location": "Beardsley Grill Area",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "AALAC Reception",
+    "id": "1383366377",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1383366377",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sj3px5fyg3arx0ryupp16grhh0",
+    "description": "<p>AALAC Reception</p>",
+    "startdate": "2026-07-22T16:30:00",
+    "enddate": "2026-07-22T22:00:00",
+    "allday": false,
+    "eventtype": "Conference",
+    "formatteddate": "Wednesday, July 22, 2026, 4:30&nbsp;&ndash;&nbsp;10pm&nbsp;",
+    "location": "Singer First Floor Commons, Singer Terrace",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "AALAC Film Screening",
+    "id": "1398370052",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1398370052",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sx0r9h64sncvbcvrey4azf3r7m",
+    "description": "<p>AALAC Film Screening - prior registration required</p>",
+    "startdate": "2026-07-22T19:00:00",
+    "enddate": "2026-07-22T22:00:00",
+    "allday": false,
+    "eventtype": "Meeting",
+    "formatteddate": "Wednesday, July 22, 2026, 7&nbsp;&ndash;&nbsp;10pm&nbsp;",
+    "location": "Martin Hall 028 Ping and Rose Chen Screening Room",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576103",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576103",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c3jmmhebcct4gr4uw8jaagmft7",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-07-23T08:30:00",
+    "enddate": "2026-07-23T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Thursday, July 23, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Summer 2026 Workshop Series: Telling your story",
+    "id": "1395671887",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671887",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0jyk0sev1kv2te0nw29juzec49",
+    "description": "<p><strong id=\"docs-internal-guid-09788795-7fff-4b9b-ac26-a59d068fe2e8\">Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p>Now that you’re coming to the end of the summer program, this workshop will help you reflect upon the skills you’ve gained and how far you’ve come. We’ll explore how your experiences shape your self-understanding and how to integrate new skills into your personal narrative(s). Finally, we’ll consider how this reflection enables you to share your story impactfully as you take your next steps.</p> <p><em>Presented by Susannah Fishman, Director, Center for Innovation & Leadership, and Rebecca Weintraub-Barth, Director of Student Activities & Leadership.</em></p>",
+    "startdate": "2026-07-23T12:00:00",
+    "enddate": "2026-07-23T13:30:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Thursday, July 23, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Provost's Office",
+      "Beyond The Classroom",
+      "Division of Student Affairs"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Group Circuit Training with Chris",
+    "id": "1381777529",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777529",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sremdr2ak19ncg0ebkvfvxj128",
+    "description": "<p><span style=\"font-weight: 400;\">Do you struggle to figure out which workout to do at the gym, or do you need some extra motivation? If so, this class is for you. Receive personal attention to help you improve your overall fitness through a total body workout. The class will offer modifications or challenges to suit each participant. </span><strong>Missed a workout? Review past workouts </strong><a href=\"https://drive.google.com/drive/folders/1tQbytlGgwYxVPjp_ywwW47-9XC4nFjL7?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>online</strong></a><strong>.</strong><span style=\"font-weight: 400;\"> </span></p>",
+    "startdate": "2026-07-23T12:15:00",
+    "enddate": "2026-07-23T13:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Thursday, July 23, 2026, 12:15&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Salsa Making",
+    "id": "1396675800",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1396675800",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c93vdfact3ramu43ukyajxbezd",
+    "description": "<p>Join us for a late afternoon lesson on the deadly nightshade family - Solanaceae!</p> <p>Then, we'll all sit down and make our very own salsa to take home.</p> <p>Sign up here: <a href=\"https://www.signupgenius.com/go/60B0E4DAFAF23A3F94-64059177-botany\" target=\"_blank\" rel=\"noopener\" title=\"https://www.signupgenius.com/go/60B0E4DAFAF23A3F94-64059177-botany\">www.signupgenius.com…</a></p> <p>There is only room for 25 attendees!</p> <p>We'll meet at the Wister Center.</p>",
+    "startdate": "2026-07-23T16:30:00",
+    "enddate": "2026-07-23T18:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Thursday, July 23, 2026, 4:30&nbsp;&ndash;&nbsp;6pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Scott Arboretum",
+      "Be Well"
     ],
     "__typename": "SwatCentralEvent"
   }
