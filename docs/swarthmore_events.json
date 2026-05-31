@@ -1,57 +1,6 @@
 [
   {
     "title": "Alumni Weekend",
-    "id": "1286562320",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562320",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gtusk82f6742g15yay49921fxc",
-    "description": "",
-    "startdate": "2026-05-30T00:00:00",
-    "enddate": "2026-05-30T23:30:00",
-    "allday": true,
-    "eventtype": "Calendar Announcement",
-    "formatteddate": "Saturday, May 30, 2026, 12am&nbsp;&ndash;&nbsp;11:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Registrar's Office"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Alumni Weekend 2026",
-    "id": "1277131958",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1277131958",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g5h5j8fe6dx1wt7kfuu362we1r",
-    "description": "<div>Whether you are celebrating a milestone reunion (class years 1 and 6) or simply looking for a reason to come back to campus, alumni of all ages are invited to come home to Swarthmore. </div><br /><div> </div><br /><div>The Class of 1976 will be invited to campus a day early - Thursday, May 28th - in honor of their 50th Reunion. </div><br /><div> </div>",
-    "startdate": "2026-05-30T00:00:00",
-    "enddate": "2026-05-31T00:00:00",
-    "allday": false,
-    "eventtype": "Alumni Weekend",
-    "formatteddate": "Saturday, May 30, 2026",
-    "location": "",
-    "organization": [
-      "College Advancement"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Alumni Weekend 2026",
-    "id": "1280760815",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1280760815",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sjkuthycnd32peyhahx6h6edbb",
-    "description": "<div>Whether you are celebrating a milestone reunion (class years ending in 1 and 6) or simply looking for a reason to come back to campus, alumni of all ages are invited to come home to Swarthmore. </div><br /><div><br />The Class of 1976 will be invited to campus a day early — Thursday, May 28th — in honor of their 50th Reunion!</div>",
-    "startdate": "2026-05-30T07:00:00",
-    "enddate": "2026-05-30T23:00:00",
-    "allday": false,
-    "eventtype": "Alumni Weekend",
-    "formatteddate": "Saturday, May 30, 2026, 7am&nbsp;&ndash;&nbsp;11pm&nbsp;",
-    "location": "",
-    "organization": [
-      "College Advancement"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Alumni Weekend",
     "id": "1286562321",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1286562321",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4pf0ae4u1835nd3jsmnc5fub82",
@@ -2432,6 +2381,40 @@
     "eventtype": "Recreation-General",
     "formatteddate": "Tuesday, July 28, 2026, 4:45&nbsp;&ndash;&nbsp;5:45pm&nbsp;",
     "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576107",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576107",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mwgm92shvcjm9m5xygjjfpa4bp",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-07-29T08:30:00",
+    "enddate": "2026-07-29T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Wednesday, July 29, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Pilates with Cathy Raymond",
+    "id": "1381777532",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777532",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mmmyym6d6k43veay3s36gxsy5u",
+    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
+    "startdate": "2026-07-29T12:00:00",
+    "enddate": "2026-07-29T13:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Wednesday, July 29, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "",
     "organization": [
       "Recreation & Wellness"
     ],
