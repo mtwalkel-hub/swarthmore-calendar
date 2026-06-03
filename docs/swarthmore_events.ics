@@ -25,170 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fd80f7fbb55d0c12@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Alumni Weekend
-DESCRIPTION:Organized by: ["Registrar's Office"]\\nCategory: Calendar Annou
- ncement\\nDetails: https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3D
- event%26eventid%3D1286562321
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1286562321
-CATEGORIES:Calendar Announcement
-END:VEVENT
-BEGIN:VEVENT
-UID:4b69a2f0bba62969@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260531T040000Z
-DTEND:20260601T040000Z
-SUMMARY:Alumni Weekend 2026
-DESCRIPTION:Organized by: ['College Advancement']\\nCategory: Alumni Weeken
- d\\nWhether you are celebrating a milestone reunion (class years 1 and 6)
-  or simply looking for a reason to come back to campus\, alumni of all age
- s are invited to come home to Swarthmore.  The Class of 1976 will be inv
- ited to campus a day early - Thursday\, May 28th - in honor of their 50th 
- Reunion.  \\nDetails: https://swatcentral.swarthmore.edu/?trumbaEmbed=vi
- ew%3Devent%26eventid%3D1277335938
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1277335938
-CATEGORIES:Alumni Weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:b3b2fb1a8e3aaa20@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260531T110000Z
-DTEND:20260601T030000Z
-SUMMARY:Alumni Weekend 2026
-DESCRIPTION:Organized by: ['College Advancement']\\nCategory: Alumni Weeken
- d\\nWhether you are celebrating a milestone reunion (class years ending in
-  1 and 6) or simply looking for a reason to come back to campus\, alumni o
- f all ages are invited to come home to Swarthmore. The Class of 1976 will
-  be invited to campus a day early — Thursday\, May 28th — in honor of 
- their 50th Reunion!\\nDetails: https://swatcentral.swarthmore.edu/?trumbaE
- mbed=view%3Devent%26eventid%3D1280760816
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1280760816
-CATEGORIES:Alumni Weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:9c51706c0306f331@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260601T123000Z
-DTEND:20260601T203000Z
-SUMMARY:American Communities 1776-2026
-DESCRIPTION:Organized by: ['Swarthmore College Libraries']\\nCategory: Exhi
- bit\\nSwarthmore College Libraries marks "America250" with a special exhib
- ition in McCabe Library. Drawing on art and artifacts from Special Collect
- ions\, the exhibition explores how family\, land\, and nation have shaped 
- the idea of “America\,” and invites visitors to consider how they see 
- this country and its history today. \\nDetails: https://swatcentral.swart
- hmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576066
-LOCATION:McCabe Library Atrium Exhibits
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1390576066
-CATEGORIES:Exhibit
-END:VEVENT
-BEGIN:VEVENT
-UID:c3bea114dbcc1c68@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260601T161500Z
-DTEND:20260601T170000Z
-SUMMARY:Group Circuit Training with Chris
-DESCRIPTION:Organized by: ['Recreation & Wellness']\\nCategory: Recreation-
- General\\nDo you struggle to figure out which workout to do at the gym\, o
- r do you need some extra motivation? If so\, this class is for you. Receiv
- e personal attention to help you improve your overall fitness through a to
- tal body workout. The class will offer modifications or challenges to suit
-  each participant. Missed a workout? Review past workouts online. \\nDetai
- ls: https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid
- %3D1381777498
-LOCATION:Matchbox Lower Level Lewis Reynolds Performance Center
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1381777498
-CATEGORIES:Recreation-General
-END:VEVENT
-BEGIN:VEVENT
-UID:cd38283d45436103@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260602T123000Z
-DTEND:20260602T203000Z
-SUMMARY:American Communities 1776-2026
-DESCRIPTION:Organized by: ['Swarthmore College Libraries']\\nCategory: Exhi
- bit\\nSwarthmore College Libraries marks "America250" with a special exhib
- ition in McCabe Library. Drawing on art and artifacts from Special Collect
- ions\, the exhibition explores how family\, land\, and nation have shaped 
- the idea of “America\,” and invites visitors to consider how they see 
- this country and its history today. \\nDetails: https://swatcentral.swart
- hmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576067
-LOCATION:McCabe Library Atrium Exhibits
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1390576067
-CATEGORIES:Exhibit
-END:VEVENT
-BEGIN:VEVENT
-UID:900ef4c8aa0dcc1f@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260602T160000Z
-DTEND:20260602T170000Z
-SUMMARY:Pilates with Cathy Raymond
-DESCRIPTION:Organized by: ['Recreation & Wellness']\\nCategory: Recreation-
- General\\nPilates is a progressive system of exercises designed to stretch
- \, strengthen\, and balance both mind and body. Benefits include increased
-  core strength\, better posture and balance skills\, more physical and men
- tal energy\, and improved sports performance. A recording of each class is
-  available on YouTube.\\nDetails: https://swatcentral.swarthmore.edu/?trum
- baEmbed=view%3Devent%26eventid%3D1381777499
-LOCATION:Matchbox Tarble Commons Upper Level
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1381777499
-CATEGORIES:Recreation-General
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0446b9b6439741@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260602T160000Z
-DTEND:20260602T173000Z
-SUMMARY:Summer 2026 Workshop Series: RIP "Final_v2_ACTUAL_FINAL": Organizin
- g Your Research Like a Pro
-DESCRIPTION:Organized by: ["Provost's Office"\, 'Beyond The Classroom'\, 'D
- ivision of Student Affairs']\\nCategory: Lecture/Panel Discussion\\nTuesda
- ys and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided. Stop s
- earching for "Final_v2_ACTUAL_FINAL" and start researching! This workshop 
- covers the "hidden curriculum" of digital research—from professional fil
- e naming and Google Drive organization to advanced collaboration technique
- s. We’ll start with the basics of digital hygiene and finish with an int
- roduction to the College’s High-Performance Computing (HPC) resources fo
- r those ready to scale up their data.  Presented by Jen Moore\, Academic 
- Technologist for the Arts & Humanities\, ITS.  \\nDetails: https://swatce
- ntral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671872
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1395671872
-CATEGORIES:Lecture/Panel Discussion
-END:VEVENT
-BEGIN:VEVENT
-UID:6f9989a18d6e1160@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
-DTSTART:20260602T204500Z
-DTEND:20260602T214500Z
-SUMMARY:Hatha Yoga with Stacy Bomento
-DESCRIPTION:Organized by: ['Recreation & Wellness']\\nCategory: Recreation-
- General\\nThis Hatha yoga class will focus on breathing and mindful moveme
- nt\, helping to increase strength and flexibility. Offering modifications 
- for various postures\, this class is accessible to all levels of practice.
-  Each practice will include poses\, breathing exercises\, and a restorativ
- e and calming finish\, followed by guided meditation. **There will be no c
- lass on July 21**\\nDetails: https://swatcentral.swarthmore.edu/?trumbaEmb
- ed=view%3Devent%26eventid%3D1391945944
-LOCATION:Matchbox Wellness Lounge Upper Level\, Matchbox Tarble Commons Upp
- er Level
-URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
- 3D1391945944
-CATEGORIES:Recreation-General
-END:VEVENT
-BEGIN:VEVENT
 UID:cc84350d6887b815@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260603T123000Z
 DTEND:20260603T203000Z
 SUMMARY:American Communities 1776-2026
@@ -206,7 +44,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:b0123b3c39b1fc02@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260603T160000Z
 DTEND:20260603T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -224,7 +62,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:7dc094b424b37fa5@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260603T170000Z
 DTEND:20260603T180000Z
 SUMMARY:Staff Summer Reading: Fantasy Meet-Up
@@ -243,7 +81,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:b5dadf9260c59bb0@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260604T123000Z
 DTEND:20260604T203000Z
 SUMMARY:American Communities 1776-2026
@@ -261,7 +99,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:0da00c88b6ab60ac@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260604T153000Z
 DTEND:20260604T173000Z
 SUMMARY:Garnet Day
@@ -289,7 +127,7 @@ CATEGORIES:Reception
 END:VEVENT
 BEGIN:VEVENT
 UID:472417a443611f96@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260604T160000Z
 DTEND:20260604T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -309,7 +147,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:e396c1787f020602@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260604T160000Z
 DTEND:20260604T173000Z
 SUMMARY:Summer 2026 Workshop Series: RIP "Final_v2_ACTUAL_FINAL": Organizin
@@ -331,7 +169,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:642ab4ebde9b4b92@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260604T161500Z
 DTEND:20260604T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -350,7 +188,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:4f7e33a8e7f53fda@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260605T123000Z
 DTEND:20260605T203000Z
 SUMMARY:American Communities 1776-2026
@@ -368,7 +206,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:85e8a25be9b524ed@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260605T170000Z
 DTEND:20260605T190000Z
 SUMMARY:Fresh Pasta Making
@@ -383,7 +221,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:cb305125f2ed0304@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260608T123000Z
 DTEND:20260608T203000Z
 SUMMARY:American Communities 1776-2026
@@ -401,7 +239,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:5da3bf566ddba58a@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260608T161500Z
 DTEND:20260608T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -420,7 +258,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:2e02c4715a62b938@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260609T123000Z
 DTEND:20260609T203000Z
 SUMMARY:American Communities 1776-2026
@@ -438,7 +276,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:9ef77a835b1e3867@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260609T160000Z
 DTEND:20260609T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -456,7 +294,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:7b983ce509047569@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260609T160000Z
 DTEND:20260609T173000Z
 SUMMARY:Summer 2026 Workshop Series: The Honest Scholar: Best Practices in 
@@ -478,7 +316,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:a1d70b2973728c4d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260609T190000Z
 DTEND:20260609T200000Z
 SUMMARY:Staff Summer Reading: Science Fiction Meet-Up
@@ -497,7 +335,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:7226f5bd9359a924@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260609T204500Z
 DTEND:20260609T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -517,7 +355,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:1003e9dbfd3c5e7e@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260610T010000Z
 DTEND:20260610T020000Z
 SUMMARY:Peter van de Kamp Observatory Open House
@@ -527,12 +365,14 @@ DESCRIPTION:Organized by: ['Physics and Astronomy']\\nCategory: Open House\
  roof of the Science Center. Directions are available at www.swarthmore.edu
  /peter-van-de-kamp-observatory/directions. The open house hours are 8:00 p
  .m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during d
- aylight savings time. If the weather is bad\, the open house will be cance
- lled and an announcement will be posted on the Physics and Astronomy depar
- tment website and the College calendar. Check https://www.swarthmore.edu/p
- hysics-astronomy on the day of the open house if the weather is questionab
- le Open to the public. \\nDetails: https://swatcentral.swarthmore.edu/?tr
- umbaEmbed=view%3Devent%26eventid%3D1364584547
+ aylight savings time. The SC-1 exterior door under the breezeway will be o
+ pen 10 minutes before the start time. The rooftop access door will open at
+  the event start time. If the weather is bad\, the open house will be canc
+ elled by 5:00 p.m.\, and an announcement will be posted on the Physics and
+  Astronomy department website and the College calendar. Check https://www
+ .swarthmore.edu/physics-astronomy on the day of the open house if the weat
+ her is questionable Open to the public. \\nDetails: https://swatcentral.s
+ warthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584547
 LOCATION:Science Center Peter Van de Kamp Observatory\, Science Center Obse
  rvatory Computer Room
 URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
@@ -541,7 +381,7 @@ CATEGORIES:Open House
 END:VEVENT
 BEGIN:VEVENT
 UID:d6f4f918c7b53a98@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260610T123000Z
 DTEND:20260610T203000Z
 SUMMARY:American Communities 1776-2026
@@ -559,7 +399,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:304a6cc8d8dec6a8@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260610T160000Z
 DTEND:20260610T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -577,7 +417,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9447a576d7efb4@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260611T123000Z
 DTEND:20260611T203000Z
 SUMMARY:American Communities 1776-2026
@@ -595,7 +435,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:e21435f9c55b419d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260611T143000Z
 DTEND:20260611T160000Z
 SUMMARY:Group Singing for Community (SoL)
@@ -610,7 +450,7 @@ CATEGORIES:Meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:5138a3ea7bd2dc5f@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260611T160000Z
 DTEND:20260611T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -630,7 +470,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:2ecc3560fa1bb112@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260611T160000Z
 DTEND:20260611T173000Z
 SUMMARY:Summer 2026 Workshop Series: The Honest Scholar: Best Practices in 
@@ -652,7 +492,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:96f674835c092c76@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260611T161500Z
 DTEND:20260611T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -671,7 +511,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:9872d4dc2f3e9a41@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260612T123000Z
 DTEND:20260612T203000Z
 SUMMARY:American Communities 1776-2026
@@ -689,7 +529,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:f6402f67972dafc1@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260612T220000Z
 DTEND:20260613T010000Z
 SUMMARY:Philly YAAP Rooftop Social
@@ -708,7 +548,7 @@ CATEGORIES:Reception
 END:VEVENT
 BEGIN:VEVENT
 UID:0b3bf3530691b375@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260613T123000Z
 DTEND:20260613T203000Z
 SUMMARY:American Communities 1776-2026
@@ -726,7 +566,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:f560ed8bb1bc3d6f@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260613T150000Z
 DTEND:20260613T180000Z
 SUMMARY:Philadelphia Connection Masonic Temple Tour
@@ -749,7 +589,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:c14848d40a83c053@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260614T123000Z
 DTEND:20260614T203000Z
 SUMMARY:American Communities 1776-2026
@@ -767,7 +607,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:17e9c27cc06056e6@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260615T123000Z
 DTEND:20260615T203000Z
 SUMMARY:American Communities 1776-2026
@@ -785,7 +625,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:3ab3d254e7808b06@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260615T161500Z
 DTEND:20260615T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -804,7 +644,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:bf5ef5f835eb3c89@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260616T123000Z
 DTEND:20260616T203000Z
 SUMMARY:American Communities 1776-2026
@@ -822,7 +662,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:0239ed1eba1993bd@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260616T160000Z
 DTEND:20260616T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -840,7 +680,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:f9f4e35d814413cf@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260616T160000Z
 DTEND:20260616T173000Z
 SUMMARY:Summer 2026 Workshop Series: Research Ready
@@ -860,7 +700,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:69a658ac73a6a853@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260616T204500Z
 DTEND:20260616T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -880,7 +720,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:02920575c8659fc7@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260617T123000Z
 DTEND:20260617T203000Z
 SUMMARY:American Communities 1776-2026
@@ -898,7 +738,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:d0309d2282dffa0b@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260617T160000Z
 DTEND:20260617T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -916,7 +756,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:9edbcf29481d6617@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260617T170000Z
 DTEND:20260617T180000Z
 SUMMARY:Staff Summer Reading: Food Writing Meet-Up
@@ -935,7 +775,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:f6ac14e91fe4d69d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260618T123000Z
 DTEND:20260618T203000Z
 SUMMARY:American Communities 1776-2026
@@ -953,7 +793,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:93bb749fc6aa30c3@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260618T160000Z
 DTEND:20260618T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -973,7 +813,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:d3f4ef1c05066e65@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260618T160000Z
 DTEND:20260618T173000Z
 SUMMARY:Summer 2026 Workshop Series: Research Ready
@@ -993,7 +833,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:323327eae810a585@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260618T161500Z
 DTEND:20260618T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1012,7 +852,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:5328bfa0a19b97a5@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260619T170000Z
 DTEND:20260619T190000Z
 SUMMARY:Canning & Preservation Basics
@@ -1027,7 +867,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:cb9553b58a28891a@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260620T220000Z
 DTEND:20260620T231500Z
 SUMMARY:2026 Solstice Yoga & Sound Bath
@@ -1043,7 +883,7 @@ CATEGORIES:Performance
 END:VEVENT
 BEGIN:VEVENT
 UID:91112afcda8f9c62@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260622T123000Z
 DTEND:20260622T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1061,7 +901,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:f6b4caef441aa7b1@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260622T161500Z
 DTEND:20260622T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1080,7 +920,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:bc94c45926b3e2c0@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260623T123000Z
 DTEND:20260623T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1098,7 +938,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:88481ce4e07f2b48@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260623T160000Z
 DTEND:20260623T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1116,7 +956,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:1f712901241fe565@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260623T160000Z
 DTEND:20260623T173000Z
 SUMMARY:Summer 2026 Workshop Series: AI Use for Research
@@ -1136,7 +976,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:11c74fc7c2397a71@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260623T190000Z
 DTEND:20260623T200000Z
 SUMMARY:Staff Summer Reading: LGBTQIA+ Meet-Up
@@ -1155,7 +995,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:3e0a6ea20340b76c@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260623T204500Z
 DTEND:20260623T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1175,7 +1015,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:5447d4e85abd2dd8@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260624T123000Z
 DTEND:20260624T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1193,7 +1033,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:028568a789f83855@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260624T160000Z
 DTEND:20260624T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1211,7 +1051,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:2df95fc00f01c618@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260624T200000Z
 DTEND:20260624T210000Z
 SUMMARY:Honey Tasting
@@ -1227,7 +1067,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:c5949b39bfe616c6@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260625T123000Z
 DTEND:20260625T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1245,7 +1085,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:554a09b37d48f0a3@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260625T160000Z
 DTEND:20260625T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1265,7 +1105,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:1a055b34635fd4e1@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260625T160000Z
 DTEND:20260625T173000Z
 SUMMARY:Summer 2026 Workshop Series: AI Use for Research
@@ -1285,7 +1125,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:5c9394dee20f98cd@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260625T161500Z
 DTEND:20260625T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1304,7 +1144,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:9185057557107924@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260626T123000Z
 DTEND:20260626T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1322,7 +1162,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:5711e35aaf3015a3@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260626T170000Z
 DTEND:20260626T190000Z
 SUMMARY:How to Make Hot Sauce
@@ -1337,7 +1177,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:ffc7981e0d977613@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260629T123000Z
 DTEND:20260629T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1355,7 +1195,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:209dc4e238f23147@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260629T161500Z
 DTEND:20260629T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1374,7 +1214,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:5a6d9a0effd4f0b6@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260629T203000Z
 DTEND:20260629T220000Z
 SUMMARY:Lamiaceae - the Mint Family
@@ -1390,7 +1230,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:feb05420cf2722a3@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260630T123000Z
 DTEND:20260630T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1408,7 +1248,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:51794ac5afab253b@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260630T160000Z
 DTEND:20260630T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1426,7 +1266,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:d2bb09213f1a737d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260630T160000Z
 DTEND:20260630T173000Z
 SUMMARY:Summer 2026 Workshop Series: Communications in a Professional Envir
@@ -1449,7 +1289,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:f238cdeb4709c2d4@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260630T204500Z
 DTEND:20260630T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1469,7 +1309,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:9e372e0fe4f8fc12@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260701T123000Z
 DTEND:20260701T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1487,7 +1327,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:9842253321aa96f2@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260701T160000Z
 DTEND:20260701T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1505,7 +1345,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:1876f8220f5cb804@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260701T170000Z
 DTEND:20260701T180000Z
 SUMMARY:Bookbinding workshop #1: Do-si-do
@@ -1523,7 +1363,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:93e9569675b32c4f@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260702T123000Z
 DTEND:20260702T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1541,7 +1381,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:ed7df311d51dc758@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260702T160000Z
 DTEND:20260702T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1561,7 +1401,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:4e5c13c4426c9299@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260702T160000Z
 DTEND:20260702T173000Z
 SUMMARY:Summer 2026 Workshop Series: Communications in a Professional Envir
@@ -1584,7 +1424,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:5585dbc62bfdce5a@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260702T161500Z
 DTEND:20260702T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1603,7 +1443,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:6fc980b4d353fd92@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260706T123000Z
 DTEND:20260706T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1621,7 +1461,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:aa622209b9401a9c@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260706T160000Z
 DTEND:20260706T210000Z
 SUMMARY:TLC Summer of Learning Drawing Foundations Workshop
@@ -1637,7 +1477,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:2d224ee180067cd2@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260706T161500Z
 DTEND:20260706T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1656,7 +1496,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:2960695aadb6b9c6@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260707T123000Z
 DTEND:20260707T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1674,7 +1514,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:e9351c68285dafa8@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260707T160000Z
 DTEND:20260707T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1692,7 +1532,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:0025890fffeaddf6@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260707T160000Z
 DTEND:20260707T173000Z
 SUMMARY:Summer 2026 Workshop Series: Balance and Boundaries
@@ -1713,7 +1553,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:61b30e7e0929b072@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260707T204500Z
 DTEND:20260707T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1733,7 +1573,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:794381e434a8bb45@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260708T123000Z
 DTEND:20260708T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1751,7 +1591,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:c346532eec198d3f@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260708T130000Z
 DTEND:20260708T140000Z
 SUMMARY:Crum Woods Walk
@@ -1768,7 +1608,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:ed75ebc7c922f89b@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260708T160000Z
 DTEND:20260708T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1786,7 +1626,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:40895721792fb5df@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260709T123000Z
 DTEND:20260709T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1804,7 +1644,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:2f126dcf1b381f6c@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260709T160000Z
 DTEND:20260709T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1824,7 +1664,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:4b60c7f2e37a4571@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260709T160000Z
 DTEND:20260709T173000Z
 SUMMARY:Summer 2026 Workshop Series: Balance and Boundaries
@@ -1845,7 +1685,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:ef3258bee153a2dd@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260709T161500Z
 DTEND:20260709T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1864,7 +1704,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:f73a1dbcbc307af5@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260710T170000Z
 DTEND:20260710T190000Z
 SUMMARY:Appetizers & One-Pan Meals
@@ -1879,7 +1719,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:2fc11f0c6fcbf255@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260713T123000Z
 DTEND:20260713T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1897,7 +1737,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc2606f6f615ccb@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260713T161500Z
 DTEND:20260713T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -1916,7 +1756,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:feb58830a401c23d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260714T123000Z
 DTEND:20260714T203000Z
 SUMMARY:American Communities 1776-2026
@@ -1934,7 +1774,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:0582a2cc370397cb@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260714T160000Z
 DTEND:20260714T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -1952,7 +1792,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:8ba33e7b98021432@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260714T160000Z
 DTEND:20260714T173000Z
 SUMMARY:Summer 2026 Workshop Series: Navigating Unexpected Challenges
@@ -1973,7 +1813,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:81df3cf2953cdd8a@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260714T204500Z
 DTEND:20260714T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -1993,7 +1833,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:f1057328f5ee1a07@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260715T010000Z
 DTEND:20260715T020000Z
 SUMMARY:Peter van de Kamp Observatory Open House
@@ -2003,12 +1843,14 @@ DESCRIPTION:Organized by: ['Physics and Astronomy']\\nCategory: Open House\
  roof of the Science Center. Directions are available at www.swarthmore.edu
  /peter-van-de-kamp-observatory/directions. The open house hours are 8:00 p
  .m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during d
- aylight savings time. If the weather is bad\, the open house will be cance
- lled and an announcement will be posted on the Physics and Astronomy depar
- tment website and the College calendar. Check https://www.swarthmore.edu/p
- hysics-astronomy on the day of the open house if the weather is questionab
- le Open to the public. \\nDetails: https://swatcentral.swarthmore.edu/?tr
- umbaEmbed=view%3Devent%26eventid%3D1364584548
+ aylight savings time. The SC-1 exterior door under the breezeway will be o
+ pen 10 minutes before the start time. The rooftop access door will open at
+  the event start time. If the weather is bad\, the open house will be canc
+ elled by 5:00 p.m.\, and an announcement will be posted on the Physics and
+  Astronomy department website and the College calendar. Check https://www
+ .swarthmore.edu/physics-astronomy on the day of the open house if the weat
+ her is questionable Open to the public. \\nDetails: https://swatcentral.s
+ warthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584548
 LOCATION:Science Center Peter Van de Kamp Observatory\, Science Center Obse
  rvatory Computer Room
 URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
@@ -2017,7 +1859,7 @@ CATEGORIES:Open House
 END:VEVENT
 BEGIN:VEVENT
 UID:105059e5b4dc6aa4@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260715T123000Z
 DTEND:20260715T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2035,7 +1877,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:8e1749d1942e1659@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260715T160000Z
 DTEND:20260715T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -2053,7 +1895,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:1f24bc8511e41880@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260716T123000Z
 DTEND:20260716T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2071,7 +1913,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:3a496208e5f379f2@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260716T160000Z
 DTEND:20260716T164500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -2091,7 +1933,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:aebd111b199e07e8@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260716T160000Z
 DTEND:20260716T173000Z
 SUMMARY:Summer 2026 Workshop Series: Navigating Unexpected Challenges
@@ -2112,7 +1954,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:6f30a70b43d210ad@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260716T161500Z
 DTEND:20260716T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -2131,7 +1973,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:36d165a4609113dc@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260717T123000Z
 DTEND:20260717T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2149,7 +1991,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:99c44afe6c62a7a9@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260720T123000Z
 DTEND:20260720T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2167,7 +2009,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:83d10722f48f389a@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260720T161500Z
 DTEND:20260720T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -2186,7 +2028,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:af7bddf8cb17c9c2@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260721T123000Z
 DTEND:20260721T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2204,7 +2046,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:5c9a329e635e95d2@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260721T160000Z
 DTEND:20260721T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -2222,7 +2064,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:4b296ccb6f0e2e89@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260721T160000Z
 DTEND:20260721T173000Z
 SUMMARY:Summer 2026 Workshop Series: Telling your story
@@ -2244,7 +2086,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:701e190080d30adc@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260721T210000Z
 DTEND:20260722T003000Z
 SUMMARY:AALAC Welcome Dinner
@@ -2258,7 +2100,7 @@ CATEGORIES:Reception
 END:VEVENT
 BEGIN:VEVENT
 UID:64a6477ceaf6cd9d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T120000Z
 DTEND:20260722T220000Z
 SUMMARY:AALAC
@@ -2272,7 +2114,7 @@ CATEGORIES:Conference
 END:VEVENT
 BEGIN:VEVENT
 UID:9e20efb506d7c89c@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T120000Z
 DTEND:20260722T220000Z
 SUMMARY:AALAC Quiet Rooms
@@ -2287,7 +2129,7 @@ CATEGORIES:Conference
 END:VEVENT
 BEGIN:VEVENT
 UID:129cb11779c1d737@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T123000Z
 DTEND:20260722T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2305,7 +2147,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac4c6bedda0202f@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T160000Z
 DTEND:20260722T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -2323,7 +2165,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:0d7939678ca51049@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T170000Z
 DTEND:20260722T180000Z
 SUMMARY:Bookbinding workshop #1: Stab stitch
@@ -2340,7 +2182,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:448bae01044d6a19@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T203000Z
 DTEND:20260723T020000Z
 SUMMARY:AALAC BBQ
@@ -2354,7 +2196,7 @@ CATEGORIES:Reception
 END:VEVENT
 BEGIN:VEVENT
 UID:a358bc4d0a44d2a8@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T203000Z
 DTEND:20260723T020000Z
 SUMMARY:AALAC Reception
@@ -2368,7 +2210,7 @@ CATEGORIES:Conference
 END:VEVENT
 BEGIN:VEVENT
 UID:61fdce56e57b31b2@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260722T230000Z
 DTEND:20260723T020000Z
 SUMMARY:AALAC Film Screening
@@ -2383,7 +2225,7 @@ CATEGORIES:Meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:681a24a8a75ed151@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260723T123000Z
 DTEND:20260723T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2401,7 +2243,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:047f2a123777015d@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260723T160000Z
 DTEND:20260723T173000Z
 SUMMARY:Summer 2026 Workshop Series: Telling your story
@@ -2423,7 +2265,7 @@ CATEGORIES:Lecture/Panel Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:392cbc06ba18ee0b@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260723T161500Z
 DTEND:20260723T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -2442,7 +2284,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:6ffef637bdd23ffd@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260723T203000Z
 DTEND:20260723T220000Z
 SUMMARY:Salsa Making
@@ -2458,7 +2300,7 @@ CATEGORIES:Training/Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:a880f3c37800a8c0@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260724T123000Z
 DTEND:20260724T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2476,7 +2318,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:6a372d0c7f98f45e@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260727T123000Z
 DTEND:20260727T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2494,7 +2336,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:198a27db0d75f22b@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260727T161500Z
 DTEND:20260727T170000Z
 SUMMARY:Group Circuit Training with Chris
@@ -2513,7 +2355,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:77fe0d625e930114@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260728T123000Z
 DTEND:20260728T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2531,7 +2373,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:0cb65bae28aadded@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260728T160000Z
 DTEND:20260728T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -2549,7 +2391,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:57a1ecad3c4e00eb@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260728T204500Z
 DTEND:20260728T214500Z
 SUMMARY:Hatha Yoga with Stacy Bomento
@@ -2569,7 +2411,7 @@ CATEGORIES:Recreation-General
 END:VEVENT
 BEGIN:VEVENT
 UID:0cc5d573b825a849@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260729T123000Z
 DTEND:20260729T203000Z
 SUMMARY:American Communities 1776-2026
@@ -2587,7 +2429,7 @@ CATEGORIES:Exhibit
 END:VEVENT
 BEGIN:VEVENT
 UID:e9bbbd6f0ae8ebae@swarthmore-dash-calendar
-DTSTAMP:20260531T121454Z
+DTSTAMP:20260603T154903Z
 DTSTART:20260729T160000Z
 DTEND:20260729T170000Z
 SUMMARY:Pilates with Cathy Raymond
@@ -2601,5 +2443,104 @@ DESCRIPTION:Organized by: ['Recreation & Wellness']\\nCategory: Recreation-
 URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
  3D1381777532
 CATEGORIES:Recreation-General
+END:VEVENT
+BEGIN:VEVENT
+UID:e8376f9249bfd262@swarthmore-dash-calendar
+DTSTAMP:20260603T154903Z
+DTSTART:20260730T123000Z
+DTEND:20260730T203000Z
+SUMMARY:American Communities 1776-2026
+DESCRIPTION:Organized by: ['Swarthmore College Libraries']\\nCategory: Exhi
+ bit\\nSwarthmore College Libraries marks "America250" with a special exhib
+ ition in McCabe Library. Drawing on art and artifacts from Special Collect
+ ions\, the exhibition explores how family\, land\, and nation have shaped 
+ the idea of “America\,” and invites visitors to consider how they see 
+ this country and its history today. \\nDetails: https://swatcentral.swart
+ hmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576108
+LOCATION:McCabe Library Atrium Exhibits
+URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
+ 3D1390576108
+CATEGORIES:Exhibit
+END:VEVENT
+BEGIN:VEVENT
+UID:0d748b8b4f49ced2@swarthmore-dash-calendar
+DTSTAMP:20260603T154903Z
+DTSTART:20260730T160000Z
+DTEND:20260730T164500Z
+SUMMARY:Hatha Yoga with Stacy Bomento
+DESCRIPTION:Organized by: ['Recreation & Wellness']\\nCategory: Recreation-
+ General\\nThis Hatha yoga class will focus on breathing and mindful moveme
+ nt\, helping to increase strength and flexibility. Offering modifications 
+ for various postures\, this class is accessible to all levels of practice.
+  Each practice will include poses\, breathing exercises\, and a restorativ
+ e and calming finish\, followed by guided meditation. **There will be no c
+ lass on July 23**\\nDetails: https://swatcentral.swarthmore.edu/?trumbaEmb
+ ed=view%3Devent%26eventid%3D1391945959
+LOCATION:Matchbox Wellness Lounge Upper Level\, Matchbox Tarble Commons Upp
+ er Level
+URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
+ 3D1391945959
+CATEGORIES:Recreation-General
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5802b6e3a257ba@swarthmore-dash-calendar
+DTSTAMP:20260603T154903Z
+DTSTART:20260730T161500Z
+DTEND:20260730T170000Z
+SUMMARY:Group Circuit Training with Chris
+DESCRIPTION:Organized by: ['Recreation & Wellness']\\nCategory: Recreation-
+ General\\nDo you struggle to figure out which workout to do at the gym\, o
+ r do you need some extra motivation? If so\, this class is for you. Receiv
+ e personal attention to help you improve your overall fitness through a to
+ tal body workout. The class will offer modifications or challenges to suit
+  each participant. Missed a workout? Review past workouts online. \\nDetai
+ ls: https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid
+ %3D1381777533
+LOCATION:Matchbox Lower Level Lewis Reynolds Performance Center
+URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
+ 3D1381777533
+CATEGORIES:Recreation-General
+END:VEVENT
+BEGIN:VEVENT
+UID:c66d4b371f18852e@swarthmore-dash-calendar
+DTSTAMP:20260603T154903Z
+DTSTART:20260731T123000Z
+DTEND:20260731T203000Z
+SUMMARY:American Communities 1776-2026
+DESCRIPTION:Organized by: ['Swarthmore College Libraries']\\nCategory: Exhi
+ bit\\nSwarthmore College Libraries marks "America250" with a special exhib
+ ition in McCabe Library. Drawing on art and artifacts from Special Collect
+ ions\, the exhibition explores how family\, land\, and nation have shaped 
+ the idea of “America\,” and invites visitors to consider how they see 
+ this country and its history today. \\nDetails: https://swatcentral.swart
+ hmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576109
+LOCATION:McCabe Library Atrium Exhibits
+URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
+ 3D1390576109
+CATEGORIES:Exhibit
+END:VEVENT
+BEGIN:VEVENT
+UID:8e3aed07079c7d1e@swarthmore-dash-calendar
+DTSTAMP:20260603T154903Z
+DTSTART:20260731T140000Z
+DTEND:20260731T160000Z
+SUMMARY:Swarthmore Summer Scholars Program (S3P) Poster Session
+DESCRIPTION:Organized by: ["Provost's Office"]\\nCategory: Poster Session\\
+ nThe Swarthmore Summer Scholar Program (S3P) invites the campus community 
+ to visit our Annual Poster Session on Friday\, August 1st from 10am-11:30a
+ m in Singer Atrium. This July\, the S3P Scholars have been learning about 
+ how cells divide. For their culminating projects\, they are designing\, co
+ nducting\, and analyzing their own experiments to examine the effects of c
+ hemicals on cell division. Please drop in anytime between 10am and 11:30am
+  to meet this amazing cohort of incoming first-year students and see what 
+ they’ve discovered! We are excited to see you there!  The Annual Swarthm
+ ore Summer Scholars Program Poster Session Celebrating the S3P Class of 20
+ 29 Friday\, August 1\, 10am-11:30am\, Singer Atrium  \\nDetails: https://
+ swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D139274555
+ 0
+LOCATION:Singer First Floor Commons
+URL:https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%
+ 3D1392745550
+CATEGORIES:Poster Session
 END:VEVENT
 END:VCALENDAR
