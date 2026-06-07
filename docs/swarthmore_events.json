@@ -1,40 +1,6 @@
 [
   {
     "title": "American Communities 1776-2026",
-    "id": "1390576070",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576070",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wa4vcvaw5pxb2psfnyt3gz6s3s",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-06-05T08:30:00",
-    "enddate": "2026-06-05T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Friday, June 5, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Fresh Pasta Making",
-    "id": "1389756406",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389756406",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c34ma7y3w99t2rw7remy3e5by6",
-    "description": "<p>Fresh pasta making - Learn to mix, roll, and shape handmade pasta from scratch.</p>",
-    "startdate": "2026-06-05T13:00:00",
-    "enddate": "2026-06-05T15:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Friday, June 5, 2026, 1&nbsp;&ndash;&nbsp;3pm&nbsp;",
-    "location": "Dining Center Teaching Kitchen 201S",
-    "organization": [
-      "Dining Services"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
     "id": "1390576071",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576071",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0u128yya2hexwy2af6uafkg8hf",
@@ -2507,6 +2473,40 @@
     "allday": false,
     "eventtype": "Exhibit",
     "formatteddate": "Monday, August 3, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576111",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576111",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/85j37xczbxwfty9m8asjy742gj",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-04T08:30:00",
+    "enddate": "2026-08-04T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Tuesday, August 4, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576112",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576112",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mhe44h6cgt5sten21a75y8s3af",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-05T08:30:00",
+    "enddate": "2026-08-05T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Wednesday, August 5, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
     "location": "McCabe Library Atrium Exhibits",
     "organization": [
       "Swarthmore College Libraries"
