@@ -1,166 +1,6 @@
 [
   {
     "title": "American Communities 1776-2026",
-    "id": "1390576071",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576071",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0u128yya2hexwy2af6uafkg8hf",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-06-08T08:30:00",
-    "enddate": "2026-06-08T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Monday, June 8, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Group Circuit Training with Chris",
-    "id": "1381777502",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777502",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8nthcu7wk1dwp0sut096bs3rmz",
-    "description": "<p><span style=\"font-weight: 400;\">Do you struggle to figure out which workout to do at the gym, or do you need some extra motivation? If so, this class is for you. Receive personal attention to help you improve your overall fitness through a total body workout. The class will offer modifications or challenges to suit each participant. </span><strong>Missed a workout? Review past workouts </strong><a href=\"https://drive.google.com/drive/folders/1tQbytlGgwYxVPjp_ywwW47-9XC4nFjL7?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>online</strong></a><strong>.</strong><span style=\"font-weight: 400;\"> </span></p>",
-    "startdate": "2026-06-08T12:15:00",
-    "enddate": "2026-06-08T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Monday, June 8, 2026, 12:15&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576072",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576072",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8d6x1mtydj8xnvbgu5afczntn1",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-06-09T08:30:00",
-    "enddate": "2026-06-09T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Tuesday, June 9, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer Writing Group",
-    "id": "1401954966",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1401954966",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4nk8ppj41h6hnhuprng0s8ez3y",
-    "description": "<p dir=\"auto\">Join the Summer Writing Group for dedicated time and community around your summer projects. Whether you’re writing, reading, revising, or making steady progress on a goal, all faculty and staff are welcome.</p> <p dir=\"auto\">We have a room reserved Tuesdays and Thursdays from 10:00 a.m.–2:00 p.m. Participants are welcome to come and go as needed. </p>",
-    "startdate": "2026-06-09T10:00:00",
-    "enddate": "2026-06-09T14:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, June 9, 2026, 10am&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "Kohlberg Room 326  - Language Center (LRC)",
-    "organization": [
-      "Modern Languages and Literatures"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Pilates with Cathy Raymond",
-    "id": "1381777503",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777503",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/06fsp9mu9v2mgdh7jfat7x0pkh",
-    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
-    "startdate": "2026-06-09T12:00:00",
-    "enddate": "2026-06-09T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Tuesday, June 9, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer 2026 Workshop Series: The Honest Scholar: Best Practices in the Ethical Conduct of Research",
-    "id": "1395671874",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671874",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/szh4cprb5jhj2p27rg4e04pc2m",
-    "description": "<p dir=\"ltr\"><strong id=\"docs-internal-guid-8454b4ee-7fff-0f37-7a87-fe35824c3a7c\">Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p dir=\"ltr\">Students will learn the basic rules for ethical conduct of research, and the three (3) things that constitute research misconduct. Think Plagiarism! We'll consider responsible conduct of research (RCR) principles and how they apply to your scholarly activities, and research of all kinds, whether in the lab, the archive, or the field.</p> <p><em>Presented by Jena Fioravanti, Director of the Office of Research Integrity and Engagement.</em></p>",
-    "startdate": "2026-06-09T12:00:00",
-    "enddate": "2026-06-09T13:30:00",
-    "allday": false,
-    "eventtype": "Lecture/Panel Discussion",
-    "formatteddate": "Tuesday, June 9, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Provost's Office",
-      "Beyond The Classroom",
-      "Division of Student Affairs"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Staff Summer Reading: Science Fiction Meet-Up",
-    "id": "1389756407",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389756407",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m4mffy38pwdr3g6ndrcmadz899",
-    "description": "<p>Love science fiction? Find fellow readers of the genre, share recommendations, and borrow library books that speak to your interests! This program is part of <a href=\"https://www.swarthmore.edu/libraries/staff-summer-reading\" target=\"_blank\" rel=\"noopener\">Staff Summer Reading</a>, brought to you by Swarthmore College Libraries, PSAC, the Office of Diversity, Equity, and Inclusion, and a Be Well mini grant. Light refreshments will be served.</p>",
-    "startdate": "2026-06-09T15:00:00",
-    "enddate": "2026-06-09T16:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Tuesday, June 9, 2026, 3&nbsp;&ndash;&nbsp;4pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Swarthmore College Libraries",
-      "Be Well",
-      "Office of Diversity",
-      "Equity",
-      "and Inclusi",
-      "PSAC President's Staff Advisory Council"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Hatha Yoga with Stacy Bomento",
-    "id": "1391945946",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945946",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gp8h9mcxxrxkxsuuu5zj0fpgk5",
-    "description": "<p dir=\"ltr\">This Hatha yoga class will focus on breathing and mindful movement, helping to increase strength and flexibility. Offering modifications for various postures, this class is accessible to all levels of practice. Each practice will include poses, breathing exercises, and a restorative and calming finish, followed by guided meditation. <strong><em>**There will be no class on July 21**</em></strong></p>",
-    "startdate": "2026-06-09T16:45:00",
-    "enddate": "2026-06-09T17:45:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Tuesday, June 9, 2026, 4:45&nbsp;&ndash;&nbsp;5:45pm&nbsp;",
-    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Peter van de Kamp Observatory Open House",
-    "id": "1364584547",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584547",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/guh5uxxyn2cmk1abr7d00bkxcb",
-    "description": "<p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
-    "startdate": "2026-06-09T21:00:00",
-    "enddate": "2026-06-09T22:00:00",
-    "allday": false,
-    "eventtype": "Open House",
-    "formatteddate": "Tuesday, June 9, 2026, 9&nbsp;&ndash;&nbsp;10pm&nbsp;",
-    "location": "Science Center Peter Van de Kamp Observatory, Science Center Observatory Computer Room",
-    "organization": [
-      "Physics and Astronomy"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
     "id": "1390576073",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576073",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c6sny92ej8b85xd6y4fr2s9grg",
@@ -417,6 +257,23 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "June SwatTalk: The Swarthmore Summer Scholars Program with Ben Geller ’01",
+    "id": "1402778069",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778069",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wng8syazgj39x875ch5wdpc9uv",
+    "description": "<p><strong>June SwatTalk: </strong><strong>The Swarthmore Summer Scholars Program with Ben Geller ’01</strong></p> <p>Monday, June 15<br />8 p.m. ET<br style=\"mso-special-character: line-break;\" /></p> <p><a href=\"https://engage.swarthmore.edu/register/form?id=9653d550-43ee-4fa6-bfbc-227dc2744046\" target=\"_blank\" rel=\"noopener\">RSVP!</a></p> <p>Over the past 20 years, Swarthmore has significantly expanded access for first-generation and low-income students; nearly 25% of the student body are now Pell Grant recipients. For the past 11 years, the Swarthmore Summer Scholars Program (S3P) has supported many of these students as they transition to life at Swarthmore.</p> <p>Since its founding in 2015, S3P has welcomed 16 incoming first-year students each summer to spend a month preparing for their first Swarthmore semester. The Summer Scholars — who are the first in their families to attend college or come from low-income backgrounds and share an interest in STEM fields — are provided a full academic immersion experience. The program includes coursework in math, lab science, and writing; mentorship from faculty, staff, and students; exposure to the many campus resources that are designed to support their academic and personal well-being; and community-building with fellow scholars — which is perhaps most important of all.</p> <p>Associate Professor of Physics Ben Geller ’01 is the director of the Swarthmore Summer Scholars Program. Please join Ben for a conversation about the program's history, future, and goals.<br /><br style=\"mso-special-character: line-break;\" /></p> <p><strong>About SwatTalks<br /></strong>SwatTalks is an Alumni Council initiative that engages the broader Swarthmore community through seminars featuring alumni and faculty members excelling in their fields. Each hour-long online seminar is free and open to Swarthmore alumni, families, faculty, staff, students, and friends. We welcome suggestions for future speakers and topics — please email your ideas to <a href=\"mailto:swattalk@swarthmore.edu.\" target=\"_blank\" rel=\"noopener\">swattalk@swarthmore.edu.</a></p> <p> </p>",
+    "startdate": "2026-06-15T20:00:00",
+    "enddate": "2026-06-15T21:00:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Monday, June 15, 2026, 8&nbsp;&ndash;&nbsp;9pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "American Communities 1776-2026",
     "id": "1390576079",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576079",
@@ -500,6 +357,23 @@
     "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
     "organization": [
       "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Swarthmore Night on Broadway, The Fear of 13",
+    "id": "1402778070",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778070",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g2g8y8m0az1g1tnav5t26hc8sv",
+    "description": "<p><strong>Swarthmore Night on Broadway, </strong><strong>The Fear of 13</strong></p> <p>Post-show Q&A with star Adrien Brody and members of The Fear of 13 creative team</p> <p><strong>James Earl Jones Theatre</strong><br />138 W 48th Street<br />New York</p> <p><strong><a href=\"https://engage.swarthmore.edu/register/form?id=69c768dc-9fd4-4f63-9246-be0fb6ab2c90\" target=\"_blank\" rel=\"noopener\">Get My Ticket</a></strong></p> <p>The Fear of 13 is the true story of Nick Yarris — played by Adrien Brody — a man who spent 22 years on death row before being exonerated by DNA evidence.<span style=\"mso-spacerun: yes;\">  </span></p> <p>As an alumni volunteer for Swarthmore, you have access to orchestra tickets before they open to the broader community. Know a fellow alum who’d love to get more involved? Bring them along. This is a great way to introduce them to our volunteer community.</p> <p><span style=\"font-size: 12.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Space for this event is extremely limited, and we expect it to fill up quickly. If you're thinking about joining us, don't wait — reserve your discounted ticket today</span></p>",
+    "startdate": "2026-06-16T19:00:00",
+    "enddate": "2026-06-16T22:00:00",
+    "allday": false,
+    "eventtype": "Performance",
+    "formatteddate": "Tuesday, June 16, 2026, 7&nbsp;&ndash;&nbsp;10pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -647,6 +521,23 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "Swarthmore LGBTQ Alum Book Club",
+    "id": "1402778071",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778071",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g5am4xmfzch27g4njfxc2az9s7",
+    "description": "<p><strong>Swarthmore LGBTQ Alum Book Club </strong>Presents: Transgender Histories from Late Imperial China with Matthew Sommer ’83</p> <p><a href=\"https://engage.swarthmore.edu/register/form?id=56d56216-edd4-4c77-a1d6-235e85d4f76f\" target=\"_blank\" rel=\"noopener\"><strong>RSVP!</strong></a></p> <p><strong>About the Talk<br /></strong>Join Matthew Sommer ’83 and Adrianne Pierce ’84 for a deep dive into Matthew’s groundbreaking book, The Fox Spirit, the Stone Maiden, and Other Transgender Histories from Late Imperial China.</p> <p>Winner of several awards, including the 2025 John K. Fairbank Prize in East Asian history, and a finalist for the 2025 Lambda Literary Award, this work is an unprecedented study of transgender lives and practices in late imperial China. Matthew considers a range of experiences, illuminating how certain forms of gender transgression were sanctioned in particular social contexts and penalized in others. A remarkable account of China’s transgender histories, Matthew sheds new light on a range of themes in Ming and Qing law, religion, medicine, literature, and culture.</p> <p>Matthew Sommer ’83 is the Bowman Family Professor of History at Stanford University.</p>",
+    "startdate": "2026-06-18T20:00:00",
+    "enddate": "2026-06-18T21:30:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Thursday, June 18, 2026, 8&nbsp;&ndash;&nbsp;9:30pm&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "Canning & Preservation Basics",
     "id": "1389889582",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389889582",
@@ -660,6 +551,23 @@
     "location": "Dining Center Teaching Kitchen 201S",
     "organization": [
       "Dining Services"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "SwatWalks: D.C.",
+    "id": "1402778072",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778072",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8suyw2t4bt41ccf60dg9wa3x2w",
+    "description": "<p><strong>SwatWalks: D.C.</strong></p> <p><strong><a href=\"https://www.nps.gov/rocr/index.htm\" target=\"_blank\" rel=\"noopener\">Rock Creek Park Nature Center and Planetarium</a><br /></strong>5200 Glover Rd NW<br />Washington, DC 20015</p> <p>Step outside and connect with your local community through<strong> SwatWalks</strong>, our new alumni-led series of outdoor social strolls! We are kicking off our very first outing in the D.C. area with a private walk in Rock Creek Park, specially curated for the Swarthmore community, led by the Rock Creek Conservancy. Please join host Ethan Landis ’84, fellow alumni, and your guests for a wonderful morning of conversation and fresh air.</p> <p>This walk is perfect for all ages and abilities. Whether you want some fresh air, lively conversation, or a great reason to get outside, this is your morning. Bring your Swat spirit — let's walk, talk, and enjoy the outdoors together.</p> <p><a href=\"https://engage.swarthmore.edu/register/form?id=d38c44fb-a022-4117-ae29-96a749162787\" target=\"_blank\" rel=\"noopener\">RSVP!</a></p> <p><strong>Program<br /></strong>8:15 a.m. Meet in front of Rock Creek Park Nature Center<br />8:30 a.m. Walk departs<br style=\"mso-special-character: line-break;\" /></p> <p>We look forward to celebrating the first day of summer with you at Rock Creek Park. Please remember to bring water, a hat, and sunscreen for the walk.</p> <p>Warmly,<br />Swarthmore Alumni Engagement</p>",
+    "startdate": "2026-06-20T08:00:00",
+    "enddate": "2026-06-20T11:00:00",
+    "allday": false,
+    "eventtype": "Recreation-General",
+    "formatteddate": "Saturday, June 20, 2026, 8&nbsp;&ndash;&nbsp;11am&nbsp;",
+    "location": "",
+    "organization": [
+      "College Advancement"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -781,6 +689,24 @@
       "Provost's Office",
       "Beyond The Classroom",
       "Division of Student Affairs"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Generative AI Meets Active Learning",
+    "id": "1403139578",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1403139578",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/w1r1vfgr2c3rajt4m7msc3jt5a",
+    "description": "<div><br />Generative AI Meets Active Learning with the FL-Instructional Designer Network<br /></div><br /><div><br /><br /><div><br /><div><br /><div>Part of the FL-IDN Professional Development Webinar Series. <a href=\"https://fsu.zoom.us/meeting/register/HlHNhJ9KSQmDrqyP2q2n0A#/registration\" target=\"_blank\" rel=\"noopener\">Register for Generative AI Meets Active Learning with the FL-Instructional Designer Network.</a></div><br /><h2>Date & Time</h2><br /><div>Jun 23, 2026</div><br /><div>02:00 PM ET</div><br /></div><br /><div><br /><h2>Description</h2><br /><p>Generative AI tools such as ChatGPT, Claude, and others are creating new opportunities to enrich active learning environments. In this webinar, we will explore practical ways instructional designers and educators can integrate AI into student-centered learning experiences that foster engagement, critical thinking, and collaboration. Participants will examine strategies for designing AI-supported activities while maintaining the essential human element in teaching and learning. Through real-world examples and thoughtful implementation practices, attendees will gain ideas for enhancing the quality and effectiveness of online learning.</p><br /><h3>Learning Outcomes</h3><br /><p>By the end of the session, participants will be able to:</p><br /><ul> <li>Identify active learning principles and explain how they promote student engagement and deeper understanding.<br /></li><li>Apply generative AI tools to support active learning through activities such as simulations, interactive feedback, and adaptive tutorials.<br /></li><li>Develop a plan to integrate at least one AI-enhanced active learning strategy into an existing course or program.<br /></li></ul><br /><h2>Presenter</h2><br /><div><a href=\"https://sc.edu/about/offices_and_divisions/cte/about/our_people/washington_gloria.php\" target=\"_blank\" rel=\"noopener\">Gloria Washington, Ed.D. </a></div><br /><div><a href=\"https://sc.edu/about/offices_and_divisions/cte/about/our_people/washington_gloria.php\" target=\"_blank\" rel=\"noopener\">Instructional Designer </a></div><br /><div><a href=\"https://sc.edu/about/offices_and_divisions/cte/about/our_people/washington_gloria.php\" target=\"_blank\" rel=\"noopener\">University of South Carolina</a> </div><br /></div><br /></div><br /></div><br />",
+    "startdate": "2026-06-23T14:00:00",
+    "enddate": "2026-06-23T15:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Tuesday, June 23, 2026, 2&nbsp;&ndash;&nbsp;3pm&nbsp;",
+    "location": "",
+    "organization": [
+      "ITS",
+      "Teaching and Learning Commons"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -995,6 +921,23 @@
     "location": "Dining Center Teaching Kitchen 201S",
     "organization": [
       "Dining Services"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "FLI-POP Summer Picnic",
+    "id": "1402778068",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778068",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0ae4pf5mduvt2yhd7est2a0xrt",
+    "description": "<p>FLI-POP Summer Picnic</p>",
+    "startdate": "2026-06-28T16:30:00",
+    "enddate": "2026-06-28T19:00:00",
+    "allday": false,
+    "eventtype": "Reception",
+    "formatteddate": "Sunday, June 28, 2026, 4:30&nbsp;&ndash;&nbsp;7pm&nbsp;",
+    "location": "Singer First Floor Commons, Singer Terrace",
+    "organization": [
+      "Teaching and Learning Commons"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -1397,6 +1340,24 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "Collaborative Course Design and Why Student Behavior Still Surprises Us",
+    "id": "1403139579",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1403139579",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/syhxudvrt4t56sap4mp7xrcr84",
+    "description": "<div><br />Lightning Round Presentations with FL-Instructional Designer Network<br /><p><a href=\"https://fsu.zoom.us/meeting/register/hZyZq604Q9iKzbHgoZzWag#/registration\" target=\"_blank\" rel=\"noopener\">Register for Lightning Round Presentations with FL-IDN</a></p><br /></div><br /><div><br /><br /><div><br /><div><br /><h2>Date & Time</h2><br /><div>Jul 7, 2026</div><br /><div>02:00 PM ET</div><br /></div><br /><div><br /><h2>Description</h2><br /><h3>Presentation 1: Bear-ing the Load Together: Collaborative Course Design for Impactful Online Learning with Baylor University</h3><br /><p>Join a dynamic dialogue between learning experience designers and lecturers as they share how collaborative partnerships, shared frameworks, and values-driven processes have led to innovative, high-quality course designs—both for new courses and redesigned ones. Grounded in instructional design principles and adult learning theory, this session will showcase practical examples that reflect a strong commitment to student-centered learning, Universal Design for Learning (UDL), and accessibility. Participants will walk away with research-based strategies and course development practices they can apply or adapt within their own institutions.</p><br /><h3>Presentation 2: Your Crystal Ball is Broken: Why Student Behavior Still Surprises Us with Indiana University</h3><br /><p>It’s not unusual to hear student behavior defined by supposed personality traits: lazy versus motivated, high performing versus unprepared. These statements speak to the frustrations of many instructors but fail to provide a workable solution. The implicit conclusion is that it’s just the way students are. But research into neuroscience and human behavior has uncovered a surprising complexity in the way we think and act. Anyone can be lazy in certain circumstances; high-performing students can still have gaps in their understanding; and unmotivated students can demonstrate great focus and enthusiasm in unlikely scenarios.</p><br /></div><br /></div><br /></div><br />",
+    "startdate": "2026-07-07T14:00:00",
+    "enddate": "2026-07-07T15:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Tuesday, July 7, 2026, 2&nbsp;&ndash;&nbsp;3pm&nbsp;",
+    "location": "",
+    "organization": [
+      "ITS",
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "Hatha Yoga with Stacy Bomento",
     "id": "1391945954",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945954",
@@ -1691,11 +1652,11 @@
     "__typename": "SwatCentralEvent"
   },
   {
-    "title": "Peter van de Kamp Observatory Open House",
+    "title": "Peter van de Kamp Observatory Open House - Cancelled 6/9/26",
     "id": "1364584548",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584548",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/manm8zc6kjpm4bdznzzautap8r",
-    "description": "<p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
+    "description": "<p><span style=\"color: rgb(224, 62, 45);\">Unfortunately, the open house event scheduled for June 9 has been cancelled due to insufficient staffing. We apologize for this notice and hope for a successful July 14 event.</span></p> <p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
     "startdate": "2026-07-14T21:00:00",
     "enddate": "2026-07-14T22:00:00",
     "allday": false,
@@ -2507,6 +2468,40 @@
     "allday": false,
     "eventtype": "Exhibit",
     "formatteddate": "Wednesday, August 5, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576113",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576113",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mrxaw3cb3by8mg9a22u733sxdz",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-06T08:30:00",
+    "enddate": "2026-08-06T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Thursday, August 6, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576114",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576114",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/mzm13zwn6dv61k9833u4w6d5x6",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-07T08:30:00",
+    "enddate": "2026-08-07T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Friday, August 7, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
     "location": "McCabe Library Atrium Exhibits",
     "organization": [
       "Swarthmore College Libraries"
