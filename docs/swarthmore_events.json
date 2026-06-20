@@ -1,22 +1,5 @@
 [
   {
-    "title": "Canning & Preservation Basics",
-    "id": "1389889582",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389889582",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c1cwm1jv5pcwgjdk0wy57yg8p1",
-    "description": "<p dir=\"ltr\">Discover safe, simple methods for preserving seasonal ingredients</p> <p> </p>",
-    "startdate": "2026-06-19T13:00:00",
-    "enddate": "2026-06-19T15:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Friday, June 19, 2026, 1&nbsp;&ndash;&nbsp;3pm&nbsp;",
-    "location": "Dining Center Teaching Kitchen 201S",
-    "organization": [
-      "Dining Services"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
     "title": "SwatWalks: D.C.",
     "id": "1402778072",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778072",
@@ -2134,6 +2117,23 @@
     "allday": false,
     "eventtype": "Exhibit",
     "formatteddate": "Monday, August 17, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576121",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576121",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wa5y9egnaxdryh9ygua4z1dzsj",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-18T08:30:00",
+    "enddate": "2026-08-18T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Tuesday, August 18, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
     "location": "McCabe Library Atrium Exhibits",
     "organization": [
       "Swarthmore College Libraries"
