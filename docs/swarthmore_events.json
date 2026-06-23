@@ -1,73 +1,5 @@
 [
   {
-    "title": "SwatWalks: D.C.",
-    "id": "1402778072",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1402778072",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8suyw2t4bt41ccf60dg9wa3x2w",
-    "description": "<p><strong>SwatWalks: D.C.</strong></p> <p><strong><a href=\"https://www.nps.gov/rocr/index.htm\" target=\"_blank\" rel=\"noopener\">Rock Creek Park Nature Center and Planetarium</a><br /></strong>5200 Glover Rd NW<br />Washington, DC 20015</p> <p>Step outside and connect with your local community through<strong> SwatWalks</strong>, our new alumni-led series of outdoor social strolls! We are kicking off our very first outing in the D.C. area with a private walk in Rock Creek Park, specially curated for the Swarthmore community, led by the Rock Creek Conservancy. Please join host Ethan Landis ’84, fellow alumni, and your guests for a wonderful morning of conversation and fresh air.</p> <p>This walk is perfect for all ages and abilities. Whether you want some fresh air, lively conversation, or a great reason to get outside, this is your morning. Bring your Swat spirit — let's walk, talk, and enjoy the outdoors together.</p> <p><a href=\"https://engage.swarthmore.edu/register/form?id=d38c44fb-a022-4117-ae29-96a749162787\" target=\"_blank\" rel=\"noopener\">RSVP!</a></p> <p><strong>Program<br /></strong>8:15 a.m. Meet in front of Rock Creek Park Nature Center<br />8:30 a.m. Walk departs<br style=\"mso-special-character: line-break;\" /></p> <p>We look forward to celebrating the first day of summer with you at Rock Creek Park. Please remember to bring water, a hat, and sunscreen for the walk.</p> <p>Warmly,<br />Swarthmore Alumni Engagement</p>",
-    "startdate": "2026-06-20T08:00:00",
-    "enddate": "2026-06-20T11:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Saturday, June 20, 2026, 8&nbsp;&ndash;&nbsp;11am&nbsp;",
-    "location": "",
-    "organization": [
-      "College Advancement"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "2026 Solstice Yoga & Sound Bath",
-    "id": "1372508681",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1372508681",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8zme0dy85kdwm0gnjzr2k05ran",
-    "description": "<p><span style=\"font-weight: 400;\">Celebrate the summer solstice with an evening of yoga and a sound bath in the beautiful Scott Outdoor Amphitheater. </span><em><span style=\"font-weight: 400;\">Presented in partnership with the Park Avenue Community Center. </span></em></p>",
-    "startdate": "2026-06-20T18:00:00",
-    "enddate": "2026-06-20T19:15:00",
-    "allday": false,
-    "eventtype": "Performance",
-    "formatteddate": "Saturday, June 20, 2026, 6&nbsp;&ndash;&nbsp;7:15pm&nbsp;",
-    "location": "Amphitheater, Clothier Room TIC-Upper Tarble - Multi Purpose Room",
-    "organization": [
-      "Scott Arboretum"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576082",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576082",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cf8yx84cc6vxkhs0c14b5cy7wt",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-06-22T08:30:00",
-    "enddate": "2026-06-22T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Monday, June 22, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Group Circuit Training with Chris",
-    "id": "1381777510",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777510",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sruwmg7zp5294zahwnyrb0vf5r",
-    "description": "<p><span style=\"font-weight: 400;\">Do you struggle to figure out which workout to do at the gym, or do you need some extra motivation? If so, this class is for you. Receive personal attention to help you improve your overall fitness through a total body workout. The class will offer modifications or challenges to suit each participant. </span><strong>Missed a workout? Review past workouts </strong><a href=\"https://drive.google.com/drive/folders/1tQbytlGgwYxVPjp_ywwW47-9XC4nFjL7?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>online</strong></a><strong>.</strong><span style=\"font-weight: 400;\"> </span></p>",
-    "startdate": "2026-06-22T12:15:00",
-    "enddate": "2026-06-22T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Monday, June 22, 2026, 12:15&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
     "title": "American Communities 1776-2026",
     "id": "1390576083",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576083",
@@ -1097,11 +1029,11 @@
     "__typename": "SwatCentralEvent"
   },
   {
-    "title": "Peter van de Kamp Observatory Open House - Cancelled 6/9/26",
+    "title": "Peter van de Kamp Observatory Open House",
     "id": "1364584548",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584548",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/manm8zc6kjpm4bdznzzautap8r",
-    "description": "<p><span style=\"color: rgb(224, 62, 45);\">Unfortunately, the open house event scheduled for June 9 has been cancelled due to insufficient staffing. We apologize for this notice and hope for a successful July 14 event.</span></p> <p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
+    "description": "<p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
     "startdate": "2026-07-14T21:00:00",
     "enddate": "2026-07-14T22:00:00",
     "allday": false,
@@ -1337,6 +1269,24 @@
     "__typename": "SwatCentralEvent"
   },
   {
+    "title": "From “Inaccessible” to Inclusive: A Practical PDF Remediation Demo",
+    "id": "1406737150",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1406737150",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/091p16x85ht1rznkeh5h0h5k7g",
+    "description": "<h1>From “Inaccessible” to Inclusive: A Practical PDF Remediation Demo with the WordPress Accessibility Meetup</h1><br /><p><a href=\"https://us02web.zoom.us/webinar/register/8817803251028/WN_LvcHbBCWR1ePTpZDdrDuFA#/registration\" target=\"_blank\" rel=\"noopener\">Register for A Practical PDF Remediation Demo</a></p><br /><h2>Date & Time</h2><br /><p>Jul 21, 2026</p> <p>11:00 AM</p><br /><h2>Description</h2><br /><p>PDFs are one of the most common and most misunderstood document formats when it comes to accessibility. In this practical, demo-led session, we’ll take a PDF and work through how to remediate it step by step. The session will focus on what good looks like, common pitfalls to avoid, and when a PDF is (and isn’t) the right format to use. You’ll leave with a clearer understanding of PDF accessibility and the confidence to start improving your own documents.</p> <p>This meetup will be live captioned.</p><br /><h2>Speakers</h2><br /><h3>Samantha Merrett</h3><br /><p>Senior Accessibility Specialist, <a href=\"https://www.gov.uk/government/organisations/ministry-of-justice\" target=\"_blank\" rel=\"noopener\" data-v-c4354c02=\">Ministry of Justice</a></p> <p>Samantha Merrett is a Senior Accessibility Specialist at the Ministry of Justice, where she leads strategic initiatives to embed accessibility across digital services. With over 7 years of experience championing accessible documents and inclusive design, Samantha has developed cross-government training programs, created hands-on learning spaces like the MoJ Accessibility Bar, and co-organises the Document Accessibility Community of Practice, a network spanning 65+ public sector organisations. She is CPACC certified and passionate about moving accessibility beyond compliance by fostering empathy-driven experiences. Samantha has presented at major conferences, including WordPress Accessibility Day and the MoJ Digital Accessibility Conference, and regularly collaborates with government teams to improve accessibility standards and capability.</p><br /><h3>Amber Hinds</h3><br /><p>CEO, <a href=\"https://equalizedigital.com/\" target=\"_blank\" rel=\"noopener\" data-v-c4354c02=\">Equalize Digital</a></p> <p>Amber Hinds is the CEO of Equalize Digital, Inc., a company specializing in WordPress accessibility and maker of the Accessibility Checker plugin. She is the lead organizer of the WordPress Accessibility Meetup, board president/co-lead organizer of the WP Accessibility Day nonprofit, and participates in the WordPress core accessibility team.  Through her work at Equalize Digital, Amber is striving to create a world where all people have equal access to information and tools on the internet, regardless of ability. Since 2010, she has led teams building websites and web applications for nonprofits, K-12 and higher education institutions, government agencies, and businesses of all sizes, and has become a passionate accessibility advocate.</p>",
+    "startdate": "2026-07-21T11:00:00",
+    "enddate": "2026-07-21T12:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Tuesday, July 21, 2026, 11am&nbsp;&ndash;&nbsp;12pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Accessibility",
+      "ITS"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
     "title": "Pilates with Cathy Raymond",
     "id": "1381777527",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777527",
@@ -1383,7 +1333,7 @@
     "allday": false,
     "eventtype": "Reception",
     "formatteddate": "Tuesday, July 21, 2026, 5&nbsp;&ndash;&nbsp;8:30pm&nbsp;",
-    "location": "Matchbox Tarble Commons Upper Level",
+    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
     "organization": [
       "Teaching and Learning Commons"
     ],
@@ -1556,6 +1506,23 @@
     "location": "McCabe Library Atrium Exhibits",
     "organization": [
       "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Yoga for AALAC Workshop",
+    "id": "1406638031",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1406638031",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sth3wka2sy08hmzy0uumvfhw11",
+    "description": "<p>Yoga for AALAC Workshop</p>",
+    "startdate": "2026-07-23T08:30:00",
+    "enddate": "2026-07-23T09:30:00",
+    "allday": false,
+    "eventtype": "Meeting",
+    "formatteddate": "Thursday, July 23, 2026, 8:30&nbsp;&ndash;&nbsp;9:30am&nbsp;",
+    "location": "Amphitheater",
+    "organization": [
+      "Teaching and Learning Commons"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -2039,11 +2006,11 @@
     "__typename": "SwatCentralEvent"
   },
   {
-    "title": "Peter van de Kamp Observatory Open House - Cancelled 6/9/26",
+    "title": "Peter van de Kamp Observatory Open House",
     "id": "1364584549",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1364584549",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0hy73ynwyxtnxaezx1fau6e1ze",
-    "description": "<p><span style=\"color: rgb(224, 62, 45);\">Unfortunately, the open house event scheduled for June 9 has been cancelled due to insufficient staffing. We apologize for this notice and hope for a successful July 14 event.</span></p> <p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
+    "description": "<p>The Physics and Astronomy department hosts a telescope open house on the second Tuesday of each month at the Peter van de Kamp Observatory on the roof of the Science Center. Directions are available at <a href=\"http://www.swarthmore.edu/peter-van-de-kamp-observatory/directions\" target=\"_blank\" rel=\"noopener\">www.swarthmore.edu/peter-van-de-kamp-observatory/directions</a>.</p> <p>The open house hours are 8:00 p.m. to 9:00 p.m. during standard time and 9:00 p.m. to 10:00 p.m. during daylight savings time. <strong>The SC-1 exterior door under the breezeway will be open 10 minutes before the start time. The rooftop access door will open at the event start time.</strong></p> <p>If the weather is bad, the open house will be cancelled by 5:00 p.m., and an announcement will be posted on the Physics and Astronomy department website and the College calendar. Check <a href=\"https://www.swarthmore.edu/physics-astronomy\" target=\"_blank\" rel=\"noopener\">https://www.swarthmore.edu/physics-astronomy</a> on the day of the open house if the weather is questionable</p> <p>Open to the public. </p>",
     "startdate": "2026-08-11T21:00:00",
     "enddate": "2026-08-11T22:00:00",
     "allday": false,
@@ -2137,6 +2104,108 @@
     "location": "McCabe Library Atrium Exhibits",
     "organization": [
       "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576122",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576122",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/csuhmt709hzj658s1gcbch3b84",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-19T08:30:00",
+    "enddate": "2026-08-19T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Wednesday, August 19, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576123",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576123",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4z2apa1n3yrv6rkn4e2w74k6y5",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-20T08:30:00",
+    "enddate": "2026-08-20T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Thursday, August 20, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "FLI-POP Welcome Celebration",
+    "id": "1376739835",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1376739835",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8am4e3gsxemu8df0111wga5w1c",
+    "description": "<p>FLI-POP Welcome Celebration</p>",
+    "startdate": "2026-08-20T18:00:00",
+    "enddate": "2026-08-20T21:00:00",
+    "allday": false,
+    "eventtype": "Reception",
+    "formatteddate": "Thursday, August 20, 2026, 6&nbsp;&ndash;&nbsp;9pm&nbsp;",
+    "location": "Matchbox Tarble Commons Upper Level",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "FLI-POP Workshops",
+    "id": "1400597118",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1400597118",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0zj875hb8rud9zv9820k2wf4gr",
+    "description": "<p>FLI-POP Workshops</p>",
+    "startdate": "2026-08-21T08:00:00",
+    "enddate": "2026-08-21T18:30:00",
+    "allday": false,
+    "eventtype": "Meeting",
+    "formatteddate": "Friday, August 21, 2026, 8am&nbsp;&ndash;&nbsp;6:30pm&nbsp;",
+    "location": "Singer Hall Room 346 - Classroom",
+    "organization": [
+      "Teaching and Learning Commons"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576124",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576124",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wg4pzczdaabmasfy1sghtkwxy7",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-21T08:30:00",
+    "enddate": "2026-08-21T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Friday, August 21, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "International Student Orientation",
+    "id": "1403314486",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1403314486",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0e3w51z0wjpu9fec6jec8p1tj4",
+    "description": "<p dir=\"ltr\">International Student Orientation provides international students with added time and exposure to life at Swarthmore College. This program helps students to adjust to Swarthmore, build community, and connect with resources in an engaging, fun-filled program. </p> <p dir=\"ltr\">International Student Orientation is required and mandatory for all incoming international F1 visa holders, and international exchange and transfer students. While optional, Americans living abroad and third culture kids (TCKs) are welcome to participate in the International Student Orientation. If you would like additional information, please contact a member of <a href=\"https://www.swarthmore.edu/international-student-center/meet-isc-team\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.swarthmore.edu/international-student-center/meet-isc-team&source=gmail&ust=1781202289057000&usg=AOvVaw0KmqvDP7pQc7w_Duzu9MJr\">the ISC team</a>!</p> <p><br />Future dates for International Student Orientation can be found on the <a href=\"https://www.swarthmore.edu/registrar/five-year-calendar\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.swarthmore.edu/registrar/five-year-calendar&source=gmail&ust=1781202289057000&usg=AOvVaw2zGebRU2ZmFa2r95GHYqLj\">College Calendar</a>.</p>",
+    "startdate": "2026-08-21T09:00:00",
+    "enddate": "2026-08-24T20:00:00",
+    "allday": false,
+    "eventtype": "Training/Workshop",
+    "formatteddate": "Friday, August 21, 9am&nbsp;&ndash; Monday, August 24, 2026, 8pm&nbsp;",
+    "location": "",
+    "organization": [
+      "International Students"
     ],
     "__typename": "SwatCentralEvent"
   }
