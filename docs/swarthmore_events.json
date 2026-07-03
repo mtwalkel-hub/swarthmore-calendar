@@ -1,231 +1,6 @@
 [
   {
     "title": "American Communities 1776-2026",
-    "id": "1390576088",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576088",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/0dvdehf6ksh5hvst5znxh57xc7",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-06-30T08:30:00",
-    "enddate": "2026-06-30T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Tuesday, June 30, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer Writing Group",
-    "id": "1401954972",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1401954972",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sxuzjpg1es528gx99g8wkjz0fn",
-    "description": "<p dir=\"auto\">Join the Summer Writing Group for dedicated time and community around your summer projects. Whether you’re writing, reading, revising, or making steady progress on a goal, all faculty and staff are welcome.</p> <p dir=\"auto\">We have a room reserved Tuesdays and Thursdays from 10:00 a.m.–2:00 p.m. Participants are welcome to come and go as needed. </p>",
-    "startdate": "2026-06-30T10:00:00",
-    "enddate": "2026-06-30T14:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Tuesday, June 30, 2026, 10am&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "Kohlberg Room 326  - Language Center (LRC)",
-    "organization": [
-      "Modern Languages and Literatures"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Pilates with Cathy Raymond",
-    "id": "1381777515",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777515",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/wnfc23rtrb4y2pdad7y2b7nksv",
-    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
-    "startdate": "2026-06-30T12:00:00",
-    "enddate": "2026-06-30T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Tuesday, June 30, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer 2026 Workshop Series: Communications in a Professional Environment",
-    "id": "1395671880",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671880",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m3hdcscn0ued4scnu24hxnb809",
-    "description": "<p dir=\"ltr\"><strong>Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p>Through this interactive presentation, participants will learn key strategies for professional written and verbal communication, including email etiquette, meeting participation, and clear expectation-setting with supervisors. The session also explores navigating team dynamics, addressing workplace challenges, and engaging in productive feedback conversations. Students will build confidence and comfort in a multitude of scenarios.</p> <p><em>Presented by Kelly Dougherty, Assistant Director Employer Relations, Career Services.</em></p>",
-    "startdate": "2026-06-30T12:00:00",
-    "enddate": "2026-06-30T13:30:00",
-    "allday": false,
-    "eventtype": "Lecture/Panel Discussion",
-    "formatteddate": "Tuesday, June 30, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Provost's Office",
-      "Beyond The Classroom",
-      "Division of Student Affairs"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Hatha Yoga with Stacy Bomento",
-    "id": "1391945952",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945952",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sskgcb85vv9km2w75kkh8ebw21",
-    "description": "<p dir=\"ltr\">This Hatha yoga class will focus on breathing and mindful movement, helping to increase strength and flexibility. Offering modifications for various postures, this class is accessible to all levels of practice. Each practice will include poses, breathing exercises, and a restorative and calming finish, followed by guided meditation. <strong><em>**There will be no class on July 21**</em></strong></p>",
-    "startdate": "2026-06-30T16:45:00",
-    "enddate": "2026-06-30T17:45:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Tuesday, June 30, 2026, 4:45&nbsp;&ndash;&nbsp;5:45pm&nbsp;",
-    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576089",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576089",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/49vkcbd9sfp1d40kyy8xje56zz",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-07-01T08:30:00",
-    "enddate": "2026-07-01T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Wednesday, July 1, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Pilates with Cathy Raymond",
-    "id": "1381777516",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777516",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8bzezjxd6n4jk6826xkn75bcad",
-    "description": "<p><span style=\"font-weight: 400;\">Pilates is a progressive system of exercises designed to stretch, strengthen, and balance both mind and body. Benefits include increased core strength, better posture and balance skills, more physical and mental energy, and improved sports performance.</span></p> <p><strong><em>A recording of each class is available on </em></strong><a href=\"https://youtube.com/c/SwarthmoreRecreationWellness\" target=\"_blank\" rel=\"noopener\"><strong><em>YouTube</em></strong></a><strong><em>.</em></strong></p>",
-    "startdate": "2026-07-01T12:00:00",
-    "enddate": "2026-07-01T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Wednesday, July 1, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Bookbinding workshop #1: Do-si-do",
-    "id": "1399033065",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1399033065",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4va0j2uxmva63zssh6j20xnd12",
-    "description": "<p>Join us to learn a basic bookbinding technique, the do-si-do. All materials will be provided, including optional supplies to turn your book into a zine or other work of art.</p> <p> </p> <p>Sponsored by Staff Summer Reading, this program is open to all staff, students, and faculty.</p>",
-    "startdate": "2026-07-01T13:00:00",
-    "enddate": "2026-07-01T14:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Wednesday, July 1, 2026, 1&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "McCabe LibLab, Full Space, Conference Room",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
-    "id": "1390576090",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576090",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/w7e9gzyvadjfvxb95369ngs58b",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-07-02T08:30:00",
-    "enddate": "2026-07-02T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Thursday, July 2, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer Writing Group",
-    "id": "1401954973",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1401954973",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4syf5xhjgu494dy4p037j44h3z",
-    "description": "<p dir=\"auto\">Join the Summer Writing Group for dedicated time and community around your summer projects. Whether you’re writing, reading, revising, or making steady progress on a goal, all faculty and staff are welcome.</p> <p dir=\"auto\">We have a room reserved Tuesdays and Thursdays from 10:00 a.m.–2:00 p.m. Participants are welcome to come and go as needed. </p>",
-    "startdate": "2026-07-02T10:00:00",
-    "enddate": "2026-07-02T14:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Thursday, July 2, 2026, 10am&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "Kohlberg Room 326  - Language Center (LRC)",
-    "organization": [
-      "Modern Languages and Literatures"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Hatha Yoga with Stacy Bomento",
-    "id": "1391945953",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945953",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8d55130jy5ag45maxu83nf0kyy",
-    "description": "<p dir=\"ltr\">This Hatha yoga class will focus on breathing and mindful movement, helping to increase strength and flexibility. Offering modifications for various postures, this class is accessible to all levels of practice. Each practice will include poses, breathing exercises, and a restorative and calming finish, followed by guided meditation. <em><strong>**There will be no class on July 23**</strong></em></p>",
-    "startdate": "2026-07-02T12:00:00",
-    "enddate": "2026-07-02T12:45:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Thursday, July 2, 2026, 12&nbsp;&ndash;&nbsp;12:45pm&nbsp;",
-    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer 2026 Workshop Series: Communications in a Professional Environment",
-    "id": "1395671881",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671881",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/s3pu2d506z5hjh4jt359j5zj9z",
-    "description": "<p dir=\"ltr\"><strong>Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p>Through this interactive presentation, participants will learn key strategies for professional written and verbal communication, including email etiquette, meeting participation, and clear expectation-setting with supervisors. The session also explores navigating team dynamics, addressing workplace challenges, and engaging in productive feedback conversations. Students will build confidence and comfort in a multitude of scenarios.</p> <p><em>Presented by Kelly Dougherty, Assistant Director Employer Relations, Career Services.</em></p>",
-    "startdate": "2026-07-02T12:00:00",
-    "enddate": "2026-07-02T13:30:00",
-    "allday": false,
-    "eventtype": "Lecture/Panel Discussion",
-    "formatteddate": "Thursday, July 2, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Provost's Office",
-      "Beyond The Classroom",
-      "Division of Student Affairs"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Group Circuit Training with Chris",
-    "id": "1381777517",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777517",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sjptxmbag4px3vdtud8jtmc2zy",
-    "description": "<p><span style=\"font-weight: 400;\">Do you struggle to figure out which workout to do at the gym, or do you need some extra motivation? If so, this class is for you. Receive personal attention to help you improve your overall fitness through a total body workout. The class will offer modifications or challenges to suit each participant. </span><strong>Missed a workout? Review past workouts </strong><a href=\"https://drive.google.com/drive/folders/1tQbytlGgwYxVPjp_ywwW47-9XC4nFjL7?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>online</strong></a><strong>.</strong><span style=\"font-weight: 400;\"> </span></p>",
-    "startdate": "2026-07-02T12:15:00",
-    "enddate": "2026-07-02T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Thursday, July 2, 2026, 12:15&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
     "id": "1390576091",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576091",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ssa3jzfujr3v75ktjm7y61ad0f",
@@ -2124,6 +1899,23 @@
     "location": "Shane Student Lounge, Parrish Hall",
     "organization": [
       "Office Of Student Engagement"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "American Communities 1776-2026",
+    "id": "1390576130",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576130",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4kw8c4xg684a0ns5x1v6ndwx85",
+    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
+    "startdate": "2026-08-31T08:30:00",
+    "enddate": "2026-08-31T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Monday, August 31, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Atrium Exhibits",
+    "organization": [
+      "Swarthmore College Libraries"
     ],
     "__typename": "SwatCentralEvent"
   }
