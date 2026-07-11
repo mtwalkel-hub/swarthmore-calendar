@@ -1,110 +1,6 @@
 [
   {
     "title": "American Communities 1776-2026",
-    "id": "1390576094",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576094",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/m2k8yyw0g713ps8wven6dr88fw",
-    "description": "<p>Swarthmore College Libraries marks \"America250\" with a special exhibition in McCabe Library. Drawing on art and artifacts from Special Collections, the exhibition explores how family, land, and nation have shaped the idea of “America,” and invites visitors to consider how they see this country and its history today. </p>",
-    "startdate": "2026-07-09T08:30:00",
-    "enddate": "2026-07-09T16:30:00",
-    "allday": false,
-    "eventtype": "Exhibit",
-    "formatteddate": "Thursday, July 9, 2026, 8:30am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
-    "location": "McCabe Library Atrium Exhibits",
-    "organization": [
-      "Swarthmore College Libraries"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer Writing Group",
-    "id": "1401954975",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1401954975",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/g993syf0tx5cebhv0d7uumceb0",
-    "description": "<p dir=\"auto\">Join the Summer Writing Group for dedicated time and community around your summer projects. Whether you’re writing, reading, revising, or making steady progress on a goal, all faculty and staff are welcome.</p> <p dir=\"auto\">We have a room reserved Tuesdays and Thursdays from 10:00 a.m.–2:00 p.m. Participants are welcome to come and go as needed. </p>",
-    "startdate": "2026-07-09T10:00:00",
-    "enddate": "2026-07-09T14:00:00",
-    "allday": false,
-    "eventtype": "Meeting",
-    "formatteddate": "Thursday, July 9, 2026, 10am&nbsp;&ndash;&nbsp;2pm&nbsp;",
-    "location": "Kohlberg Room 326  - Language Center (LRC)",
-    "organization": [
-      "Modern Languages and Literatures"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Hatha Yoga with Stacy Bomento",
-    "id": "1391945955",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1391945955",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4nypayhaw50xc0x3n8w7nea2z7",
-    "description": "<p dir=\"ltr\">This Hatha yoga class will focus on breathing and mindful movement, helping to increase strength and flexibility. Offering modifications for various postures, this class is accessible to all levels of practice. Each practice will include poses, breathing exercises, and a restorative and calming finish, followed by guided meditation. <em><strong>**There will be no class on July 23**</strong></em></p>",
-    "startdate": "2026-07-09T12:00:00",
-    "enddate": "2026-07-09T12:45:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Thursday, July 9, 2026, 12&nbsp;&ndash;&nbsp;12:45pm&nbsp;",
-    "location": "Matchbox Wellness Lounge Upper Level, Matchbox Tarble Commons Upper Level",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Summer 2026 Workshop Series: Balance and Boundaries",
-    "id": "1395671883",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1395671883",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/gnxu107nje7u12aaj8nk1rzzz7",
-    "description": "<p><strong id=\"docs-internal-guid-23e5c051-7fff-acbc-f461-4d519d59e234\">Tuesdays and Thursdays in Sci 101 from 12-1:30pm. Lunch will be provided.</strong></p> <p>Learn ways to set and maintain realistic boundaries to better manage your time and support your personal well-being. In this workshop, we will explore strategies to find balance and thrive in academic and professional settings.</p> <p><em>Presented by Dean Liz Derickson, Associate Dean of Academic Success; Melissa Mandos, Director of Student Academic Mentors and Fellowships & Prizes Advisor; and Ashley Netanel, Associate Director of Health Promotion & Wellness Initiatives.</em></p>",
-    "startdate": "2026-07-09T12:00:00",
-    "enddate": "2026-07-09T13:30:00",
-    "allday": false,
-    "eventtype": "Lecture/Panel Discussion",
-    "formatteddate": "Thursday, July 9, 2026, 12&nbsp;&ndash;&nbsp;1:30pm&nbsp;",
-    "location": "",
-    "organization": [
-      "Provost's Office",
-      "Beyond The Classroom",
-      "Division of Student Affairs"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Group Circuit Training with Chris",
-    "id": "1381777521",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1381777521",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ggx3b9r602ujvwtr82dmhm1yba",
-    "description": "<p><span style=\"font-weight: 400;\">Do you struggle to figure out which workout to do at the gym, or do you need some extra motivation? If so, this class is for you. Receive personal attention to help you improve your overall fitness through a total body workout. The class will offer modifications or challenges to suit each participant. </span><strong>Missed a workout? Review past workouts </strong><a href=\"https://drive.google.com/drive/folders/1tQbytlGgwYxVPjp_ywwW47-9XC4nFjL7?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>online</strong></a><strong>.</strong><span style=\"font-weight: 400;\"> </span></p>",
-    "startdate": "2026-07-09T12:15:00",
-    "enddate": "2026-07-09T13:00:00",
-    "allday": false,
-    "eventtype": "Recreation-General",
-    "formatteddate": "Thursday, July 9, 2026, 12:15&nbsp;&ndash;&nbsp;1pm&nbsp;",
-    "location": "Matchbox Lower Level Lewis Reynolds Performance Center",
-    "organization": [
-      "Recreation & Wellness"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "Appetizers & One-Pan Meals",
-    "id": "1389889584",
-    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1389889584",
-    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/sb3meb31dctdrb2xx92zxr7nyw",
-    "description": "<p> Master quick, flavorful dishes perfect for busy schedules</p>",
-    "startdate": "2026-07-10T13:00:00",
-    "enddate": "2026-07-10T15:00:00",
-    "allday": false,
-    "eventtype": "Training/Workshop",
-    "formatteddate": "Friday, July 10, 2026, 1&nbsp;&ndash;&nbsp;3pm&nbsp;",
-    "location": "Dining Center Teaching Kitchen 201S",
-    "organization": [
-      "Dining Services"
-    ],
-    "__typename": "SwatCentralEvent"
-  },
-  {
-    "title": "American Communities 1776-2026",
     "id": "1390576095",
     "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1390576095",
     "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/49fc3h70njaw263panyhrx495z",
@@ -1045,6 +941,24 @@
     "location": "",
     "organization": [
       "Recreation & Wellness"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Tech as Cognitive Accessibility: Designing Systems for ADHD Brains",
+    "id": "1412435743",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1412435743",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/ga5tr96ebf0cfjw8j02abjtgpn",
+    "description": "<h1><a href=\"https://a11ytalks.com/posts/2026-jul\" target=\"_blank\" rel=\"noopener\">Tech as Cognitive Accessibility: Designing Systems for ADHD Brains with A11yTalks</a></h1><br /><div><br /><div><br /><h2>Presenter:</h2><br /><p>Eleanor Beilby (She/Her)</p><br /></div><br /></div><br /><div><br /><h2>Description:</h2><br /><p>ADHD involves executive dysfunction, time blindness, and working memory barriers that standard technology often overlooks. Cognitive accessibility, unlike sensory or motor access, is still largely treated as a productivity problem rather than an access problem. This session reframes digital tools as cognitive accessibility aids, presenting inclusive design patterns, no-code workflows, and real examples of technology that support ADHD cognition instead of overwhelming it.</p><br /></div>",
+    "startdate": "2026-07-29T12:00:00",
+    "enddate": "2026-07-29T13:00:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Wednesday, July 29, 2026, 12&nbsp;&ndash;&nbsp;1pm&nbsp;",
+    "location": "",
+    "organization": [
+      "Accessibility",
+      "ITS"
     ],
     "__typename": "SwatCentralEvent"
   },
@@ -2151,6 +2065,95 @@
       "Swarthmore College Libraries",
       "Cooper Series",
       "William J. Cooper Foundation"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Exhibit: The Hidden World of Fungi",
+    "id": "1406737157",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1406737157",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/4ctvtdmbwccwh31173gszj9dy6",
+    "description": "<p><span style=\"font-size: 14pt;\">Fungi have long been entangled with the history of Swarthmore. Displayed here are items from the Friends Historical Library, Rare Book Room, Peace Collection, College archives, and Biology Department archives, spanning over 500 years of human entanglement with the fungal kingdom. Welcome to the understory.</span></p> <p><span style=\"font-size: 14pt;\">View the AccessAble USA guide for <a href=\"https://www.accessableusa.com/swarthmore-college/access-guides/mccabe-library\" target=\"_blank\" rel=\"noopener\">McCabe Library</a>. </span><br /><span style=\"font-size: 14pt;\">View the AccessAble USA guide for <a href=\"https://www.accessableusa.com/swarthmore-college\" target=\"_blank\" rel=\"noopener\">Swarthmore College</a>.</span></p> <p><span style=\"font-size: 14pt;\">For directions, parking, and a campus map, please refer to <a title=\"Visit Swarthmore\" href=\"https://www.swarthmore.edu/visit-swarthmore\" target=\"_blank\" rel=\"noopener\">Visit Swarthmore</a>.</span></p> <p><span style=\"font-size: 14pt;\">This exhibit is a part of <a href=\"https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1407050938\" target=\"_blank\" rel=\"noopener\">Swarthmore Fungi Fest</a>, which is free and open to the public. Some individual events may require registration in advance. </span></p> <p><span style=\"font-size: 14pt;\">Swarthmore Fungi Fest is supported by the Cooper Foundation, Swarthmore College Libraries, the Biology Department, the Campus and Community Store, the English Department, the Environmental Studies Program, the Film and Media Studies Department, Kitao Gallery, the Office of Sustainability, Scott Arboretum & Gardens, with a special thanks to our local mycology clubs, the Philadelphia Mycology Club and the New Jersey Mycological Association.</span></p>",
+    "startdate": "2026-09-07T10:00:00",
+    "enddate": "2026-09-07T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Monday, September 7, 2026, 10am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Ad Hoc Exhibit 1",
+    "organization": [
+      "Swarthmore College Libraries",
+      "Cooper Series",
+      "William J. Cooper Foundation"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "IC Phoenix Phriends Mentor Program",
+    "id": "1386142190",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1386142190",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/8zn8a82ae816ymgstsdscw9gwa",
+    "description": "<p>The Phoenix Phriends is a peer-mentoring program designed for Swarthmore College students from all cultures and communities with the emphasis of building cultural humility and cultural appreciation. Student participants will take part in a Fall Semester Program filled with the building of academic support, social support, and the identification and utilization of on-campus resources. The program consists of 2 components: the mentees (First Year and Sophomores) and mentors (Juniors and Seniors).</p>",
+    "startdate": "2026-09-07T17:00:00",
+    "enddate": "2026-09-07T18:00:00",
+    "allday": false,
+    "eventtype": "Lecture/Panel Discussion",
+    "formatteddate": "Monday, September 7, 2026, 5&nbsp;&ndash;&nbsp;6pm&nbsp;",
+    "location": "Hormel/Nguyen Intercultural Center at Sproul Hall Room 201 Dome Room",
+    "organization": [
+      "Intercultural Center"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Exhibit: The Hidden World of Fungi",
+    "id": "1406737158",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1406737158",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/c78ca4hzput9gf9hgt9256zftr",
+    "description": "<p><span style=\"font-size: 14pt;\">Fungi have long been entangled with the history of Swarthmore. Displayed here are items from the Friends Historical Library, Rare Book Room, Peace Collection, College archives, and Biology Department archives, spanning over 500 years of human entanglement with the fungal kingdom. Welcome to the understory.</span></p> <p><span style=\"font-size: 14pt;\">View the AccessAble USA guide for <a href=\"https://www.accessableusa.com/swarthmore-college/access-guides/mccabe-library\" target=\"_blank\" rel=\"noopener\">McCabe Library</a>. </span><br /><span style=\"font-size: 14pt;\">View the AccessAble USA guide for <a href=\"https://www.accessableusa.com/swarthmore-college\" target=\"_blank\" rel=\"noopener\">Swarthmore College</a>.</span></p> <p><span style=\"font-size: 14pt;\">For directions, parking, and a campus map, please refer to <a title=\"Visit Swarthmore\" href=\"https://www.swarthmore.edu/visit-swarthmore\" target=\"_blank\" rel=\"noopener\">Visit Swarthmore</a>.</span></p> <p><span style=\"font-size: 14pt;\">This exhibit is a part of <a href=\"https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1407050938\" target=\"_blank\" rel=\"noopener\">Swarthmore Fungi Fest</a>, which is free and open to the public. Some individual events may require registration in advance. </span></p> <p><span style=\"font-size: 14pt;\">Swarthmore Fungi Fest is supported by the Cooper Foundation, Swarthmore College Libraries, the Biology Department, the Campus and Community Store, the English Department, the Environmental Studies Program, the Film and Media Studies Department, Kitao Gallery, the Office of Sustainability, Scott Arboretum & Gardens, with a special thanks to our local mycology clubs, the Philadelphia Mycology Club and the New Jersey Mycological Association.</span></p>",
+    "startdate": "2026-09-08T10:00:00",
+    "enddate": "2026-09-08T16:30:00",
+    "allday": false,
+    "eventtype": "Exhibit",
+    "formatteddate": "Tuesday, September 8, 2026, 10am&nbsp;&ndash;&nbsp;4:30pm&nbsp;",
+    "location": "McCabe Library Ad Hoc Exhibit 1",
+    "organization": [
+      "Swarthmore College Libraries",
+      "Cooper Series",
+      "William J. Cooper Foundation"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Spanish Language Table",
+    "id": "1394026482",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1394026482",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/czvsp9hscd7apm8hk2mat16mp9",
+    "description": "<br /><br /><br /><br /><div><br /><p> </p> <p>Come practice your Spanish in a relaxed and informal setting while you enjoy your lunch!  The Spanish Language Table is held every Tuesday at 12:35 pm in DCC Room 201S.  You do not need to register for this program, just stop by! If you need more information, contact <a href=\"mailto:jbawgus2@swarthmore.edu\" target=\"_blank\" rel=\"noopener\">Jessica Bawgus</a>.   </p><br /></div><br /><br /><br /><br />",
+    "startdate": "2026-09-08T12:35:00",
+    "enddate": "2026-09-08T13:15:00",
+    "allday": false,
+    "eventtype": "Academic Event",
+    "formatteddate": "Tuesday, September 8, 2026, 12:35&nbsp;&ndash;&nbsp;1:15pm&nbsp;",
+    "location": "Dining Center Teaching Kitchen 201S",
+    "organization": [
+      "Spanish"
+    ],
+    "__typename": "SwatCentralEvent"
+  },
+  {
+    "title": "Co-Ed Club Volleyball Practice",
+    "id": "1405290894",
+    "url": "https://swatcentral.swarthmore.edu/?trumbaEmbed=view%3Devent%26eventid%3D1405290894",
+    "eventactionurl": "https://25livepub.collegenet.com/eventactions/swarthmore-college-events#/actions/cntupz8680zamp6n6342fb7bnb",
+    "description": "<p>Co-Ed Club Volleyball holds our weekly practices 3 times each week. We offer volleyball at all levels, so come join! Open to students, faculty, and staff. Whether you have never played volleyball or are an experienced player, come have fun with us and see what it's about!</p>",
+    "startdate": "2026-09-08T19:00:00",
+    "enddate": "2026-09-08T21:00:00",
+    "allday": false,
+    "eventtype": "Student Group Meeting/Practice",
+    "formatteddate": "Tuesday, September 8, 2026, 7&nbsp;&ndash;&nbsp;9pm&nbsp;",
+    "location": "Lamb Miller Fieldhouse EAST",
+    "organization": [
+      "Club Volleyball"
     ],
     "__typename": "SwatCentralEvent"
   }
